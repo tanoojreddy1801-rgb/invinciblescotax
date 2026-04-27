@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+:root {
+  --bg-1: #f8fbff;
+  --bg-2: #eef5ff;
+  --bg-3: #f9fcff;
+  --surface: rgba(255, 255, 255, 0.8);
+  --text: #24324a;
+  --text-soft: #60708d;
+  --line: rgba(186, 205, 232, 0.45);
+  --primary: #5b8def;
+  --primary-2: #7fb3ff;
+  --teal: #57c6c2;
+  --shadow-lg: 0 24px 60px rgba(115, 149, 199, 0.18);
+  --shadow-md: 0 14px 34px rgba(122, 152, 199, 0.14);
+  --shadow-sm: 0 8px 20px rgba(122, 152, 199, 0.1);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at 0% 0%, rgba(168, 202, 255, 0.26), transparent 28%),
+    radial-gradient(circle at 100% 10%, rgba(126, 215, 193, 0.22), transparent 24%),
+    radial-gradient(circle at 70% 100%, rgba(246, 183, 200, 0.18), transparent 24%),
+    linear-gradient(180deg, var(--bg-1) 0%, var(--bg-2) 52%, var(--bg-3) 100%);
+  overflow-x: hidden;
+}
+
+/* MAIN CARD (aligned with panel design) */
+.box {
+  position: relative;
+  max-width: 820px;
+  margin: 40px auto;
+  background: var(--surface);
+  backdrop-filter: blur(18px);
+  border: 1px solid var(--line);
+  padding: 28px;
+  border-radius: 28px;
+  box-shadow: var(--shadow-lg);
+}
+
+/* TOP GRADIENT STRIP */
+.box::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: linear-gradient(
+    90deg,
+    rgba(91,141,239,0.85),
+    rgba(87,198,194,0.75),
+    rgba(246,183,200,0.7)
+    overflow: hidden;   /* ADD THIS */
+  );
+}
+
+/* TITLE */
+.box h3 {
+  margin: 0 0 20px;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: 0.4px;
+}
+
+/* INPUT (aligned with dashboard inputs) */
+input {
+  width: 100%;
+  height: 48px;
+  padding: 0 14px;
+  border-radius: 16px;
+  border: 1px solid rgba(190, 208, 233, 0.62);
+  font-size: 14px;
+  color: var(--text);
+  background: linear-gradient(
+    180deg,
+    rgba(255,255,255,0.95),
+    rgba(242,247,255,0.92)
+  );
+  outline: none;
+  transition: 0.22s ease;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.78);
+}
+
+input:focus {
+  border-color: var(--primary);
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,0.78),
+    0 0 0 4px rgba(91, 141, 239, 0.12);
+}
+
+/* DROPDOWN LIST */
+ul {
+  list-style: none;
+  padding: 8px;
+  margin-top: 10px;
+  border: 1px solid rgba(197, 214, 238, 0.55);
+  border-radius: 20px;
+  display: none;
+  max-height: 260px;
+  overflow-y: auto;
+  background: linear-gradient(
+    180deg,
+    rgba(255,255,255,0.98),
+    rgba(248,251,255,0.95)
+  );
+  box-shadow: var(--shadow-md);
+}
+
+/* LIST ITEMS */
+li {
+  padding: 12px 14px;
+  cursor: pointer;
+  border-radius: 14px;
+  border-bottom: 1px solid rgba(224, 234, 247, 0.9);
+  transition: 0.2s ease;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+li:hover {
+  background: linear-gradient(
+    135deg,
+    rgba(91,141,239,0.12),
+    rgba(87,198,194,0.1)
+  );
+}
+
+/* RESULT PANEL (aligned with cards) */
+.result {
+  margin-top: 20px;
+  background: linear-gradient(
+    180deg,
+    rgba(255,255,255,0.97),
+    rgba(248,251,255,0.92)
+  );
+  padding: 20px;
+  border-radius: 22px;
+  border: 1px solid rgba(197, 214, 238, 0.55);
+  box-shadow: var(--shadow-md);
+}
+
+/* TEXT */
+.result p {
+  margin: 10px 0;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+/* LABEL */
+.label {
+  font-weight: 700;
+  color: var(--text-soft);
+}
+
+/* RESPONSIVE */
+@media (max-width: 700px) {
+  body {
+    padding: 16px 14px 28px;
+  }
+
+  .box {
+    margin: 0 auto;
+    padding: 18px;
+  }
+
+  .box h3 {
+    font-size: 22px;
+  }
+}
+</style>
+  
+</head>
+
+<body>
+
+<div class="box">
+
+<h3>LLP Compliance Check</h3>
+
+<input type="text" id="search" placeholder="Search LLP form...">
+<ul id="list"></ul>
+
+<div class="result">
+  <p><span class="label">SL No:</span> <span id="sl"></span></p>
+  <p><span class="label">Form name:</span> <span id="form"></span></p>
+  <p><span class="label">Purpose of filing the form:</span> <span id="purpose"></span></p>
+  <p><span class="label">Relevant rule and section under LLP rules and LLP act:</span> <span id="law"></span></p>
+  <p><span class="label">Due date:</span> <span id="due"></span></p>
+  <p><span class="label">Remarks:</span> <span id="remarks"></span></p>
+</div>
+
+</div>
+
+<script>
+
+let data = [];
+
+/* FETCH JSON */
+fetch('https://tanoojreddy1801-rgb.github.io/llp-compliance-check/llp.json')
+.then(res => res.json())
+.then(json => {
+  data = json;
+});
+
+fetch('llp.json')
+.then(res => {
+  if (!res.ok) throw new Error("HTTP error " + res.status);
+  return res.json();
+})
+.then(json => {
+  data = json;
+})
+.catch(err => {
+  console.error("Fetch failed:", err);
+});
+  
+/* SAFE GET */
+function get(obj, key){
+  return obj[key] !== undefined ? obj[key] : "";
+}
+
+/* RENDER LIST */
+function renderList(arr){
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+
+  arr.forEach(item => {
+
+    const li = document.createElement("li");
+    li.textContent = get(item, "Form name") || "Unknown";
+
+    li.onclick = () => {
+
+      document.getElementById("sl").textContent =
+        get(item, "SL No");
+
+      document.getElementById("form").textContent =
+        get(item, "Form name");
+
+      document.getElementById("purpose").textContent =
+        get(item, "Purpose of filing the form");
+
+      document.getElementById("law").textContent =
+        get(item, "Relevant rule and section under LLP rules and LLP act");
+
+      document.getElementById("due").textContent =
+        get(item, "Due date");
+
+      document.getElementById("remarks").textContent =
+        get(item, "Remarks");
+
+      /* CLOSE DROPDOWN */
+      list.style.display = "none";
+
+      /* CLEAR SEARCH */
+      document.getElementById("search").value = "";
+    };
+
+    list.appendChild(li);
+  });
+}
+
+/* SHOW LIST */
+function showList(){
+  document.getElementById("list").style.display = "block";
+  renderList(data);
+}
+
+const search = document.getElementById("search");
+
+/* OPEN ON CLICK */
+search.addEventListener("focus", showList);
+search.addEventListener("click", showList);
+
+/* SEARCH FILTER */
+search.addEventListener("input", function(){
+
+  const val = this.value.toLowerCase();
+
+  const filtered = data.filter(item =>
+    JSON.stringify(item).toLowerCase().includes(val)
+  );
+
+  renderList(filtered);
+  document.getElementById("list").style.display = "block";
+
+});
+
+</script>
+
+</body>
+</html>
