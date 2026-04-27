@@ -1,0 +1,3202 @@
+[
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Sahaj (Form ITR-1)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Form SAHAJ (ITR-1)",
+    "Section under New Act (2025)": "Section 263(1) / 268(1)(a) / 280",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Capital Gains / More than 1 House (Form ITR-2)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Notified ITR",
+    "Section under New Act (2025)": "Section 263(1) / 268(1)(a) / 280",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Business / Profession (Form ITR-3)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Notified ITR",
+    "Section under New Act (2025)": "Section 263(1)",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Presumptive Business / Sugam (Form ITR-4)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Notified ITR",
+    "Section under New Act (2025)": "Section 263(1)",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Firms / LLPs / AOPs (Form ITR-5)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Notified ITR",
+    "Section under New Act (2025)": "Section 263(1)",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Companies (Form ITR-6)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Notified ITR",
+    "Section under New Act (2025)": "Section 263(1)",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Trusts / NGOs (Form ITR-7)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Notified ITR",
+    "Section under New Act (2025)": "Section 263(1)",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Updated Return of Income (Form ITR-U)",
+    "Section under Old Act (1961)": "Section 139(8A)",
+    "Rule under Old Act (1962)": "Rule 12AC",
+    "New Form Number under New Act (2025)": "Form ITR-UN",
+    "Section under New Act (2025)": "Section 263(6)",
+    "Rule under New Act (2026)": "Rule 165"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual Information Statement (Form 26AS)",
+    "Section under Old Act (1961)": "Section 285BB / 143(1)",
+    "Rule under Old Act (1962)": "Rule 114-I",
+    "New Form Number under New Act (2025)": "Form No. 168",
+    "Section under New Act (2025)": "Section 510",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "TDS Certificate for Salary (Form 16)",
+    "Section under Old Act (1961)": "Section 203 / 192",
+    "Rule under Old Act (1962)": "Rule 31",
+    "New Form Number under New Act (2025)": "Form No. 130",
+    "Section under New Act (2025)": "Section 395",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "TDS Certificate Non-Salary (Form 16A)",
+    "Section under Old Act (1961)": "Section 203",
+    "Rule under Old Act (1962)": "Rule 31",
+    "New Form Number under New Act (2025)": "Form No. 131 / 132",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "TDS Certificate on Sale of Property (Form 16B)",
+    "Section under Old Act (1961)": "Section 194-IA",
+    "Rule under Old Act (1962)": "Rule 31(3A)",
+    "New Form Number under New Act (2025)": "Form No. 132 (Unified)",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "TDS Certificate on Rent (Form 16C)",
+    "Section under Old Act (1961)": "Section 194-IB",
+    "Rule under Old Act (1962)": "Rule 31",
+    "New Form Number under New Act (2025)": "Form No. 132 (Unified)",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "TCS Certificate (Form 27D)",
+    "Section under Old Act (1961)": "Section 206C(5)",
+    "Rule under Old Act (1962)": "Rule 37D",
+    "New Form Number under New Act (2025)": "Form No. 133",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Quarterly TDS Statement - Salary (Form 24Q)",
+    "Section under Old Act (1961)": "Section 200(3)",
+    "Rule under Old Act (1962)": "Rule 31A(1)(a)",
+    "New Form Number under New Act (2025)": "Form No. 138",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Quarterly TDS Statement - Non-Salary (Form 26Q)",
+    "Section under Old Act (1961)": "Section 200(3)",
+    "Rule under Old Act (1962)": "Rule 31A(1)(b)(ii)",
+    "New Form Number under New Act (2025)": "Form No. 140",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Quarterly TDS Statement - NRI Payments (Form 27Q)",
+    "Section under Old Act (1961)": "Section 200(3)",
+    "Rule under Old Act (1962)": "Rule 31A(1)(b)(i)",
+    "New Form Number under New Act (2025)": "Form No. 144",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Quarterly TCS Statement (Form 27EQ)",
+    "Section under Old Act (1961)": "Section 206C(3)",
+    "Rule under Old Act (1962)": "Rule 31AA(1)",
+    "New Form Number under New Act (2025)": "Form No. 143",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "TDS/TCS Book Adjustment Statement (Form 24G)",
+    "Section under Old Act (1961)": "Section 200(3) / 206C(3)",
+    "Rule under Old Act (1962)": "Rule 30(2A) / 37CA",
+    "New Form Number under New Act (2025)": "Form No. 137",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 218"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Challan-cum-statement for TDS on Property (Form 26QB)",
+    "Section under Old Act (1961)": "Section 194-IA",
+    "Rule under Old Act (1962)": "Rule 30(6A) / 31A(4A)",
+    "New Form Number under New Act (2025)": "Form No. 141 (Unified)",
+    "Section under New Act (2025)": "Section 393(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Challan-cum-statement for TDS on Rent (Form 26QC)",
+    "Section under Old Act (1961)": "Section 194-IB",
+    "Rule under Old Act (1962)": "Rule 30(6B) / 31A(4B)",
+    "New Form Number under New Act (2025)": "Form No. 141 (Unified)",
+    "Section under New Act (2025)": "Section 393(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Quarterly statement for Virtual Digital Assets (Form 26QF)",
+    "Section under Old Act (1961)": "Section 194S",
+    "Rule under Old Act (1962)": "Rule 31A(1)",
+    "New Form Number under New Act (2025)": "Form No. 142",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration for Nil TDS - Individuals below 60 yrs (Form 15G)",
+    "Section under Old Act (1961)": "Section 197A(1) / (1A)",
+    "Rule under Old Act (1962)": "Rule 29C",
+    "New Form Number under New Act (2025)": "Form No. 121 (Unified)",
+    "Section under New Act (2025)": "Section 393(6)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration for Nil TDS - Senior Citizens (Form 15H)",
+    "Section under Old Act (1961)": "Section 197A(1C)",
+    "Rule under Old Act (1962)": "Rule 29C",
+    "New Form Number under New Act (2025)": "Form No. 121 (Unified)",
+    "Section under New Act (2025)": "Section 393(6)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for lower/nil TDS/TCS (Form 13)",
+    "Section under Old Act (1961)": "Section 197 / 206C(9)",
+    "Rule under Old Act (1962)": "Rule 37G",
+    "New Form Number under New Act (2025)": "Form No. 128",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 209"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Info Furnished for Payments to Non-Residents (Form 15CA)",
+    "Section under Old Act (1961)": "Section 195(6)",
+    "Rule under Old Act (1962)": "Rule 37BB",
+    "New Form Number under New Act (2025)": "Form No. 145",
+    "Section under New Act (2025)": "Section 397(3)(d)",
+    "Rule under New Act (2026)": "Rule 220"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Accountant Certificate for NRI Payments (Form 15CB)",
+    "Section under Old Act (1961)": "Section 195(6)",
+    "Rule under Old Act (1962)": "Rule 37BB",
+    "New Form Number under New Act (2025)": "Form No. 146",
+    "Section under New Act (2025)": "Section 397(3)(d)",
+    "Rule under New Act (2026)": "Rule 220(1)(c)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Receipt of Sums Without TDS (Form 15C / 15D)",
+    "Section under Old Act (1961)": "Section 195",
+    "Rule under Old Act (1962)": "Rule 29B",
+    "New Form Number under New Act (2025)": "Form No. 126",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 209"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Buyer Declaration for Goods Without TCS (Form 27C)",
+    "Section under Old Act (1961)": "Section 206C(1A)",
+    "Rule under Old Act (1962)": "Rule 37C",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 394",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Audit Report - Main Form (Form 3CD)",
+    "Section under Old Act (1961)": "Section 44AB",
+    "Rule under Old Act (1962)": "Rule 6G(2)",
+    "New Form Number under New Act (2025)": "Form No. 26 (Unified)",
+    "Section under New Act (2025)": "Section 63",
+    "Rule under New Act (2026)": "Rule 47"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Audit Report - Corp/Statutory Audit done (Form 3CA)",
+    "Section under Old Act (1961)": "Section 44AB",
+    "Rule under Old Act (1962)": "Rule 6G(1)(a)",
+    "New Form Number under New Act (2025)": "Form No. 26 (Unified)",
+    "Section under New Act (2025)": "Section 63",
+    "Rule under New Act (2026)": "Rule 47"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Audit Report - Statutory Audit NOT done (Form 3CB)",
+    "Section under Old Act (1961)": "Section 44AB",
+    "Rule under Old Act (1962)": "Rule 6G(1)(b)",
+    "New Form Number under New Act (2025)": "Form No. 26 (Unified)",
+    "Section under New Act (2025)": "Section 63",
+    "Rule under New Act (2026)": "Rule 47"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Daily Case Register - Professionals (Form 3C)",
+    "Section under Old Act (1961)": "Section 44AA",
+    "Rule under Old Act (1962)": "Rule 6F",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 62",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Transfer Pricing Accountant Report (Form 3CEB)",
+    "Section under Old Act (1961)": "Section 92E",
+    "Rule under Old Act (1962)": "Rule 10E",
+    "New Form Number under New Act (2025)": "Form No. 48",
+    "Section under New Act (2025)": "Section 172",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Advance Pricing Agreement - APA (Form 3CED)",
+    "Section under Old Act (1961)": "Section 92CC",
+    "Rule under Old Act (1962)": "Rule 10G / 10-I",
+    "New Form Number under New Act (2025)": "Mapped to Form No. 48 / Notified APA Forms",
+    "Section under New Act (2025)": "Section 165",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Opting for New Tax Regime (Form 10-IE)",
+    "Section under Old Act (1961)": "Section 115BAC",
+    "Rule under Old Act (1962)": "Rule 21AG",
+    "New Form Number under New Act (2025)": "Via Notified ITR",
+    "Section under New Act (2025)": "Section 202",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Withdrawal of New Tax Regime (Form 10-IEA)",
+    "Section under Old Act (1961)": "Section 115BAC",
+    "Rule under Old Act (1962)": "Rule 21AGA",
+    "New Form Number under New Act (2025)": "Via Notified ITR",
+    "Section under New Act (2025)": "Section 202",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Registration of NGO/Trust (Form 10A)",
+    "Section under Old Act (1961)": "Section 12A / 10(23C)",
+    "Rule under Old Act (1962)": "Rule 17A",
+    "New Form Number under New Act (2025)": "Form No. 104",
+    "Section under New Act (2025)": "Section 332 / 354",
+    "Rule under New Act (2026)": "Rule 181"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Permanent Registration NGO (Form 10AB)",
+    "Section under Old Act (1961)": "Section 12AB / 10(23C)",
+    "Rule under Old Act (1962)": "Rule 17A",
+    "New Form Number under New Act (2025)": "Form No. 105",
+    "Section under New Act (2025)": "Section 332 / 354",
+    "Rule under New Act (2026)": "Rule 181"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Donations Received by NGOs (Form 10BD)",
+    "Section under Old Act (1961)": "Section 80G",
+    "Rule under Old Act (1962)": "Rule 18AB",
+    "New Form Number under New Act (2025)": "Form No. 113",
+    "Section under New Act (2025)": "Section 354(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of Donation Issued to Donor (Form 10BE)",
+    "Section under Old Act (1961)": "Section 80G",
+    "Rule under Old Act (1962)": "Rule 18AB",
+    "New Form Number under New Act (2025)": "Form No. 114",
+    "Section under New Act (2025)": "Section 354(1)(g)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for PAN - Indian Citizen (Form 49A)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form No. 93 (Ind) / Form 94 (Entity)",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for PAN - Foreign Citizen (Form 49AA)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form No. 95 (Ind) / Form 96 (Entity)",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for TAN (Form 49B)",
+    "Section under Old Act (1961)": "Section 203A",
+    "Rule under Old Act (1962)": "Rule 114A",
+    "New Form Number under New Act (2025)": "Form No. 134 (Govt) / 135 (Others)",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Financial Transaction - SFT (Form 61A)",
+    "Section under Old Act (1961)": "Section 285BA",
+    "Rule under Old Act (1962)": "Rule 114E",
+    "New Form Number under New Act (2025)": "Form No. 165",
+    "Section under New Act (2025)": "Section 508(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Claim of Foreign Tax Credit (Form 67)",
+    "Section under Old Act (1961)": "Section 90 / 90A / 91",
+    "Rule under Old Act (1962)": "Rule 128",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 159",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Details of Salary Income to Employer (Form 12B / 12BAA)",
+    "Section under Old Act (1961)": "Section 192(2)",
+    "Rule under Old Act (1962)": "Rule 26A / 26B",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 392",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Claims for Deduction by Employee (Form 12BB)",
+    "Section under Old Act (1961)": "Section 192(2D)",
+    "Rule under Old Act (1962)": "Rule 26C",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 392",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Claim of tax relief for salary paid in arrears (Form 10E)",
+    "Section under Old Act (1961)": "Section 89",
+    "Rule under Old Act (1962)": "Rule 21AA",
+    "New Form Number under New Act (2025)": "Form No. 39",
+    "Section under New Act (2025)": "Section 157(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Royalty/FTS - Non-Residents (Form 3CE)",
+    "Section under Old Act (1961)": "Section 44DA",
+    "Rule under Old Act (1962)": "Rule 6GA",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 63 / 106",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Royalty/FTS - Non-Residents (Form 3CE)",
+    "Section under Old Act (1961)": "Section 44DA",
+    "Rule under Old Act (1962)": "Rule 6GA",
+    "New Form Number under New Act (2025)": "Form No. 24",
+    "Section under New Act (2025)": "Section 59",
+    "Rule under New Act (2026)": "Rule 43"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Charitable/Religious Trusts (Form 10B)",
+    "Section under Old Act (1961)": "Section 12A / 10(23C)",
+    "Rule under Old Act (1962)": "Rule 17B / 16CC",
+    "New Form Number under New Act (2025)": "Form No. 112 (Unified)",
+    "Section under New Act (2025)": "Section 348",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Trusts - Specific Conditions (Form 10BB)",
+    "Section under Old Act (1961)": "Section 12A / 10(23C)",
+    "Rule under Old Act (1962)": "Rule 16CC",
+    "New Form Number under New Act (2025)": "Form No. 112 (Unified)",
+    "Section under New Act (2025)": "Section 348",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration by person not having PAN (Form 61)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114D",
+    "New Form Number under New Act (2025)": "Form No. 98",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "FATCA / CRS Reporting Statement (Form 61B)",
+    "Section under Old Act (1961)": "Section 285BA",
+    "Rule under Old Act (1962)": "Rule 114G",
+    "New Form Number under New Act (2025)": "Form No. 166",
+    "Section under New Act (2025)": "Section 508(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to Commissioner (Appeals) / JCIT(A) (Form 35)",
+    "Section under Old Act (1961)": "Section 246A",
+    "Rule under Old Act (1962)": "Rule 45",
+    "New Form Number under New Act (2025)": "Form No. 99",
+    "Section under New Act (2025)": "Section 356",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to Income Tax Appellate Tribunal - ITAT (Form 36)",
+    "Section under Old Act (1961)": "Section 253",
+    "Rule under Old Act (1962)": "Rule 47",
+    "New Form Number under New Act (2025)": "Form No. 115",
+    "Section under New Act (2025)": "Section 361",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Cross Objection to ITAT (Form 36A)",
+    "Section under Old Act (1961)": "Section 253",
+    "Rule under Old Act (1962)": "Rule 47",
+    "New Form Number under New Act (2025)": "Form No. 116",
+    "Section under New Act (2025)": "Section 361",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Advance Ruling (Form 34C)",
+    "Section under Old Act (1961)": "Section 245Q",
+    "Rule under Old Act (1962)": "Rule 44E",
+    "New Form Number under New Act (2025)": "Form No. 120",
+    "Section under New Act (2025)": "Section 383(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Information by Non-Resident for DTAA Relief (Form 10F)",
+    "Section under Old Act (1961)": "Section 90(5)",
+    "Rule under Old Act (1962)": "Rule 21AB",
+    "New Form Number under New Act (2025)": "Form No. 41",
+    "Section under New Act (2025)": "Section 159(8)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Accountant for MAT - Minimum Alternate Tax (Form 29B)",
+    "Section under Old Act (1961)": "Section 115JB",
+    "Rule under Old Act (1962)": "Rule 40B",
+    "New Form Number under New Act (2025)": "Form No. 66",
+    "Section under New Act (2025)": "Section 206(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Accountant for AMT - Alternate Minimum Tax (Form 29C)",
+    "Section under Old Act (1961)": "Section 115JC",
+    "Rule under Old Act (1962)": "Rule 40BA",
+    "New Form Number under New Act (2025)": "Form No. 67",
+    "Section under New Act (2025)": "Section 206(2)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Claim of MAT Credit (Form 29AA)",
+    "Section under Old Act (1961)": "Section 115JAA",
+    "Rule under Old Act (1962)": "Rule 40A",
+    "New Form Number under New Act (2025)": "Form No. 53",
+    "Section under New Act (2025)": "Section 206(1)",
+    "Rule under New Act (2026)": "Rule 118"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration for Rent Paid Without HRA (Form 10BA)",
+    "Section under Old Act (1961)": "Section 80GG",
+    "Rule under Old Act (1962)": "Rule 11B",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of Medical Authority for Disability (Form 10-IA)",
+    "Section under Old Act (1961)": "Section 80DD / 80U",
+    "Rule under Old Act (1962)": "Rule 11A",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Particulars for SEZ deduction (Form 56F)",
+    "Section under Old Act (1961)": "Section 10AA",
+    "Rule under Old Act (1962)": "Rule 16D",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report for Additional Employee Cost Deduction (Form 10DA)",
+    "Section under Old Act (1961)": "Section 80JJAA",
+    "Rule under Old Act (1962)": "Rule 19AB",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report for Offshore Banking Units/IFSC (Form 10CCF)",
+    "Section under Old Act (1961)": "Section 80LA",
+    "Rule under Old Act (1962)": "Rule 19AE",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Certificate of Residence (Form 10FA)",
+    "Section under Old Act (1961)": "Section 90 / 90A",
+    "Rule under Old Act (1962)": "Rule 21AB",
+    "New Form Number under New Act (2025)": "Form No. 42",
+    "Section under New Act (2025)": "Section 159(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of Residence (Form 10FB)",
+    "Section under Old Act (1961)": "Section 90 / 90A",
+    "Rule under Old Act (1962)": "Rule 21AB",
+    "New Form Number under New Act (2025)": "Form No. 43",
+    "Section under New Act (2025)": "Section 159",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Pre-filing Consultation for APA (Form 3CEC)",
+    "Section under Old Act (1961)": "Section 92CC",
+    "Rule under Old Act (1962)": "Rule 10H",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 165",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual Compliance Report for APA (Form 3CEF)",
+    "Section under Old Act (1961)": "Section 92CC",
+    "Rule under Old Act (1962)": "Rule 10-O",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 165",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Option for Safe Harbour (Form 3CEFA)",
+    "Section under Old Act (1961)": "Section 92CB",
+    "Rule under Old Act (1962)": "Rule 10TE",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 164",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Exercise of Option for Arm's Length Price (Form 3CEE)",
+    "Section under Old Act (1961)": "Section 92C",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 163",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement by AIF/Investment Fund to Investors (Form 64C)",
+    "Section under Old Act (1961)": "Section 115UB",
+    "Rule under Old Act (1962)": "Rule 12CB",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 224",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Income Distributed by AIF (Form 64D)",
+    "Section under Old Act (1961)": "Section 115UB",
+    "Rule under Old Act (1962)": "Rule 12CB",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 224",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement by Business Trust to Unitholders (Form 64A)",
+    "Section under Old Act (1961)": "Section 115UA",
+    "Rule under Old Act (1962)": "Rule 12CA",
+    "New Form Number under New Act (2025)": "Form No. 76",
+    "Section under New Act (2025)": "Section 223",
+    "Rule under New Act (2026)": "Rule 145"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Income Distributed by Business Trust (Form 64B)",
+    "Section under Old Act (1961)": "Section 115UA",
+    "Rule under Old Act (1962)": "Rule 12CA",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 223",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Tonnage Tax Scheme (Form 65)",
+    "Section under Old Act (1961)": "Section 115VP",
+    "Rule under Old Act (1962)": "Rule 11T",
+    "New Form Number under New Act (2025)": "Form No. 80",
+    "Section under New Act (2025)": "Section 231",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application by Pension/Sovereign Fund for Exemption (Form 10BBA)",
+    "Section under Old Act (1961)": "Section 10(23FE)",
+    "Rule under Old Act (1962)": "Rule 2DB",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Modification of PAN Data (CSF)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form No. 93 / 94",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Surrender/Cancellation of PAN (Misc)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of Succession of Business (Misc)",
+    "Section under Old Act (1961)": "Section 170",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 238",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Tax Clearance Certificate (Form 31)",
+    "Section under Old Act (1961)": "Section 230",
+    "Rule under Old Act (1962)": "Rule 42",
+    "New Form Number under New Act (2025)": "Form No. 157 / 158",
+    "Section under New Act (2025)": "Section 420(4) / (5)",
+    "Rule under New Act (2026)": "Rule 156"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Clearance Certificate (Form 33)",
+    "Section under Old Act (1961)": "Section 230",
+    "Rule under Old Act (1962)": "Rule 43",
+    "New Form Number under New Act (2025)": "Form No. 159",
+    "Section under New Act (2025)": "Section 420(5)",
+    "Rule under New Act (2026)": "Rule 156"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Immunity from Penalty (Form 68)",
+    "Section under Old Act (1961)": "Section 270AA",
+    "Rule under Old Act (1962)": "Rule 129",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Intimation of Withdrawal of Appeal (Form 68A)",
+    "Section under Old Act (1961)": "Section 270AA",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Eligible Business/Infrastructure (Form 10CCB)",
+    "Section under Old Act (1961)": "Section 80-IA / 80-IB",
+    "Rule under Old Act (1962)": "Rule 18BBB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Obtaining Refund (Form 30)",
+    "Section under Old Act (1961)": "Section 237 / 239",
+    "Rule under Old Act (1962)": "Rule 41",
+    "New Form Number under New Act (2025)": "Omitted (Claimed via ITR)",
+    "Section under New Act (2025)": "Section 263",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Demands / Tax Adjustments (Form 28A)",
+    "Section under Old Act (1961)": "Omitted",
+    "Rule under Old Act (1962)": "Rule 28A",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Extension of Time for Return (Form 6)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate from AO for Lower TDS (Form 15AA)",
+    "Section under Old Act (1961)": "Section 197",
+    "Rule under Old Act (1962)": "Rule 28AA",
+    "New Form Number under New Act (2025)": "Replaced by AO Order",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Nil TDS on Dividends (Form 15M)",
+    "Section under Old Act (1961)": "Omitted",
+    "Rule under Old Act (1962)": "Omitted",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Settlement Commission (Form 34B)",
+    "Section under Old Act (1961)": "Section 245C",
+    "Rule under Old Act (1962)": "Rule 44C",
+    "New Form Number under New Act (2025)": "Form No. 119 (Dispute Resolution Committee)",
+    "Section under New Act (2025)": "Section 379",
+    "Rule under New Act (2026)": "Rule 197"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Foreign Assets/Income (Schedule FA)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Schedule FA (in ITR)",
+    "Section under New Act (2025)": "Section 263",
+    "Rule under New Act (2026)": "Rule 164"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Intimation of Estimated Income - Advance Tax (Misc)",
+    "Section under Old Act (1961)": "Section 209A / 210",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 388",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration for continuation of firm (Form 12)",
+    "Section under Old Act (1961)": "Section 184",
+    "Rule under Old Act (1962)": "Rule 24",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for registration of a firm (Form 11 / 11A)",
+    "Section under Old Act (1961)": "Section 184",
+    "Rule under Old Act (1962)": "Rule 22",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by Form No. 94)",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of Tax Deducted at Source - Dividends (Form 19)",
+    "Section under Old Act (1961)": "Omitted",
+    "Rule under Old Act (1962)": "Omitted",
+    "New Form Number under New Act (2025)": "Omitted (Unified into Form 131/132)",
+    "Section under New Act (2025)": "Section 395",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of Tax Deducted at Source - Interest (Form 19A)",
+    "Section under Old Act (1961)": "Omitted",
+    "Rule under Old Act (1962)": "Omitted",
+    "New Form Number under New Act (2025)": "Omitted (Unified into Form 131/132)",
+    "Section under New Act (2025)": "Section 395",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report for Slump Sale Computation (Form 3CEA)",
+    "Section under Old Act (1961)": "Section 50B",
+    "Rule under Old Act (1962)": "Rule 6H",
+    "New Form Number under New Act (2025)": "Form No. 28",
+    "Section under New Act (2025)": "Section 77(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for PAN by Resident / Indian Citizen (Form 49A)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form No. 93",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for PAN by Non-Resident / Foreign Entity (Form 49AA)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form No. 96",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "Rule 158"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration by individuals without a PAN (New)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Not Applicable",
+    "New Form Number under New Act (2025)": "Form No. 97",
+    "Section under New Act (2025)": "Section 262(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Quarterly statement by authorized dealer for remittances (Form 15CC)",
+    "Section under Old Act (1961)": "Section 195(6)",
+    "Rule under Old Act (1962)": "Rule 37BB",
+    "New Form Number under New Act (2025)": "Form No. 147",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 220(6)(a)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Grant of Approval for Fund/Institution (Form 10G)",
+    "Section under Old Act (1961)": "Section 80G",
+    "Rule under Old Act (1962)": "Rule 11AA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Particulars of Claims by Employee (Form 12BB)",
+    "Section under Old Act (1961)": "Section 192(2D)",
+    "Rule under Old Act (1962)": "Rule 26C",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 392",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Perquisites/Fringe Benefits (Form 12BA)",
+    "Section under Old Act (1961)": "Section 192",
+    "Rule under Old Act (1962)": "Rule 26A(2)",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for modification in TAN Data (TAN CSF)",
+    "Section under Old Act (1961)": "Section 203A",
+    "Rule under Old Act (1962)": "Rule 114A",
+    "New Form Number under New Act (2025)": "Form No. 134 / 135",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 216"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate for nil/lower deduction of tax from dividends (Form 15)",
+    "Section under Old Act (1961)": "Section 197",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source - Annual Salary (Form 24)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of Demand (Form 7)",
+    "Section under Old Act (1961)": "Section 156",
+    "Rule under Old Act (1962)": "Rule 15",
+    "New Form Number under New Act (2025)": "Form No. 103",
+    "Section under New Act (2025)": "Section 289",
+    "Rule under New Act (2026)": "Rule 179"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for registration of Charitable Trust (Form 10A)",
+    "Section under Old Act (1961)": "Section 12A / 10(23C)",
+    "Rule under Old Act (1962)": "Rule 17A",
+    "New Form Number under New Act (2025)": "Form No. 104",
+    "Section under New Act (2025)": "Section 332 / 354",
+    "Rule under New Act (2026)": "Rule 181"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Crypto Asset Service Provider Annual Statement (New)",
+    "Section under Old Act (1961)": "Section 194S",
+    "Rule under Old Act (1962)": "Rule 31A",
+    "New Form Number under New Act (2025)": "Form No. 142",
+    "Section under New Act (2025)": "Section 397(3)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to National Faceless Appeal Centre (Form 35)",
+    "Section under Old Act (1961)": "Section 246A",
+    "Rule under Old Act (1962)": "Rule 45",
+    "New Form Number under New Act (2025)": "Form No. 99",
+    "Section under New Act (2025)": "Section 356",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Memorandum of Cross Objections to ITAT (Form 36A)",
+    "Section under Old Act (1961)": "Section 253",
+    "Rule under Old Act (1962)": "Rule 47",
+    "New Form Number under New Act (2025)": "Form No. 116",
+    "Section under New Act (2025)": "Section 361",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for referring case to Valuation Officer (Form 34A)",
+    "Section under Old Act (1961)": "Section 55A",
+    "Rule under Old Act (1962)": "Rule 111AA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of net worth for Slump Sale (Form 3CEA)",
+    "Section under Old Act (1961)": "Section 50B",
+    "Rule under Old Act (1962)": "Rule 6H",
+    "New Form Number under New Act (2025)": "Form No. 28",
+    "Section under New Act (2025)": "Section 77(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for allotment of Tax Deduction A/c No. (Form 49B)",
+    "Section under Old Act (1961)": "Section 203A",
+    "Rule under Old Act (1962)": "Rule 114A",
+    "New Form Number under New Act (2025)": "Form No. 134 (Govt)",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 216(1)(a)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate by medical authority for Section 80DDB (Form 10-I)",
+    "Section under Old Act (1961)": "Section 80DDB",
+    "Rule under Old Act (1962)": "Rule 11DD",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for certificate under sec 194C(4) (Form 13C)",
+    "Section under Old Act (1961)": "Section 194C(4)",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Fringe Benefits (Form 1 / ITR-8)",
+    "Section under Old Act (1961)": "Section 115WD",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for grant of certificate of Section 80G (Form 10G)",
+    "Section under Old Act (1961)": "Section 80G",
+    "Rule under Old Act (1962)": "Rule 11AA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration by person claiming receipt of interest without TDS (Form 15A)",
+    "Section under Old Act (1961)": "Section 197A",
+    "Rule under Old Act (1962)": "Rule 29C",
+    "New Form Number under New Act (2025)": "Form No. 121 (Unified)",
+    "Section under New Act (2025)": "Section 393(6)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of Assessment (Form 8)",
+    "Section under Old Act (1961)": "Section 143 / 144",
+    "Rule under Old Act (1962)": "Rule 15",
+    "New Form Number under New Act (2025)": "Form No. 103 (Unified Demand)",
+    "Section under New Act (2025)": "Section 289",
+    "Rule under New Act (2026)": "Rule 179"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Warrant of Authorization for Search & Seizure (Form 45)",
+    "Section under Old Act (1961)": "Section 132",
+    "Rule under Old Act (1962)": "Rule 112",
+    "New Form Number under New Act (2025)": "Form No. 82",
+    "Section under New Act (2025)": "Section 247(2)",
+    "Rule under New Act (2026)": "Rule 148"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Warrant of Authorization for requisition of books (Form 45A)",
+    "Section under Old Act (1961)": "Section 132A",
+    "Rule under Old Act (1962)": "Rule 112D",
+    "New Form Number under New Act (2025)": "Form No. 86",
+    "Section under New Act (2025)": "Section 248",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for release of seized assets (Misc)",
+    "Section under Old Act (1961)": "Section 132B",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 247",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of interest paid without TDS (Form 27A)",
+    "Section under Old Act (1961)": "Section 206A",
+    "Rule under Old Act (1962)": "Rule 37A",
+    "New Form Number under New Act (2025)": "Mapped to regular TDS forms",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate to be issued by Mutual Funds/UTI (Form 64)",
+    "Section under Old Act (1961)": "Section 115R",
+    "Rule under Old Act (1962)": "Rule 12B",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of income distributed by Securitisation Trust (Form 64E)",
+    "Section under Old Act (1961)": "Section 115TA",
+    "Rule under Old Act (1962)": "Rule 12BA",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 221",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of income distributed by Securitisation Trust to investors (Form 64F)",
+    "Section under Old Act (1961)": "Section 115TA",
+    "Rule under Old Act (1962)": "Rule 12BA",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 221",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form for giving intimation of shifting of registered office (Misc)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for determination of tax payable by Shipping Company (Form 65)",
+    "Section under Old Act (1961)": "Section 115VP",
+    "Rule under Old Act (1962)": "Rule 11T",
+    "New Form Number under New Act (2025)": "Form No. 80",
+    "Section under New Act (2025)": "Section 231",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit report under tonnage tax scheme (Form 66)",
+    "Section under Old Act (1961)": "Section 115VW",
+    "Rule under Old Act (1962)": "Rule 11T",
+    "New Form Number under New Act (2025)": "Form No. 81",
+    "Section under New Act (2025)": "Section 232",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of transfer of capital asset by way of compulsory acquisition (Form 37-I)",
+    "Section under Old Act (1961)": "Section 269UC",
+    "Rule under Old Act (1962)": "Rule 48L",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for certificate under Section 194G (Form 13D)",
+    "Section under Old Act (1961)": "Section 194G",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of estimated tax payable - Advance Tax (Form 28A)",
+    "Section under Old Act (1961)": "Section 209A",
+    "Rule under Old Act (1962)": "Rule 39",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of tax deducted at source from dividends (Form 26)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of TDS from interest on securities (Form 16A)",
+    "Section under Old Act (1961)": "Section 203",
+    "Rule under Old Act (1962)": "Rule 31",
+    "New Form Number under New Act (2025)": "Form No. 131 / 132",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Information by Non-Resident regarding tax treaty benefits (Form 10F)",
+    "Section under Old Act (1961)": "Section 90(5)",
+    "Rule under Old Act (1962)": "Rule 21AB",
+    "New Form Number under New Act (2025)": "Form No. 41",
+    "Section under New Act (2025)": "Section 159(8)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of Demand for Penalty (Form 7)",
+    "Section under Old Act (1961)": "Section 156",
+    "Rule under Old Act (1962)": "Rule 15",
+    "New Form Number under New Act (2025)": "Form No. 103",
+    "Section under New Act (2025)": "Section 289",
+    "Rule under New Act (2026)": "Rule 179"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of audit for authors/playwrights/artists (Form 10CA)",
+    "Section under Old Act (1961)": "Section 80QQB",
+    "Rule under Old Act (1962)": "Rule 19AB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for order under section 119(2)(b) for delay condonation (Misc)",
+    "Section under Old Act (1961)": "Section 119(2)(b)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 250",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of short-term capital gains by FIIs (Form 3CEE)",
+    "Section under Old Act (1961)": "Section 115AD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for allotment of DIN - Director Identification (Misc)",
+    "Section under Old Act (1961)": "Not an IT Act Form",
+    "Rule under Old Act (1962)": "Not Applicable",
+    "New Form Number under New Act (2025)": "Not Applicable",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Claim of refund of tax (Form 30)",
+    "Section under Old Act (1961)": "Section 237",
+    "Rule under Old Act (1962)": "Rule 41",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement by producers of cinematograph films (Form 52A)",
+    "Section under Old Act (1961)": "Section 285B",
+    "Rule under Old Act (1962)": "Rule 121A",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 507",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Intimation of aggregate amount of loan given (Form 63)",
+    "Section under Old Act (1961)": "Section 115S",
+    "Rule under Old Act (1962)": "Rule 12E",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for PAN for firms/HUF (Form 49A)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form No. 94",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for recognition of Provident Fund (Misc)",
+    "Section under Old Act (1961)": "Schedule IV",
+    "Rule under Old Act (1962)": "Rule 77",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration by person not having PAN for specific transactions (Form 60)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114B",
+    "New Form Number under New Act (2025)": "Form No. 97",
+    "Section under New Act (2025)": "Section 262(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of declaration by agriculturalists without PAN (Form 61)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114C/114D",
+    "New Form Number under New Act (2025)": "Form No. 98",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Accountant Certificate for non-deduction of TDS - Payer relief (Form 26A)",
+    "Section under Old Act (1961)": "Section 201(1)",
+    "Rule under Old Act (1962)": "Rule 31ACB",
+    "New Form Number under New Act (2025)": "Form No. 149",
+    "Section under New Act (2025)": "Section 398(2)",
+    "Rule under New Act (2026)": "Rule 221(1)(a)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Accountant Certificate for non-collection of TCS - Collector relief (Form 27BA)",
+    "Section under Old Act (1961)": "Section 206C(6A)",
+    "Rule under Old Act (1962)": "Rule 37J",
+    "New Form Number under New Act (2025)": "Form No. 149",
+    "Section under New Act (2025)": "Section 398(2)",
+    "Rule under New Act (2026)": "Rule 221(1)(a)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Exemption by specific NGO/Institutions (Form 56)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "Rule 2C",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for approval of Educational/Medical Funds (Form 55)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "Rule 2C",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Receipt of donation for eligible social projects (Form 58A)",
+    "Section under Old Act (1961)": "Section 35AC",
+    "Rule under Old Act (1962)": "Rule 11-O",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of eligible project expenditure (Form 58B)",
+    "Section under Old Act (1961)": "Section 35AC",
+    "Rule under Old Act (1962)": "Rule 11-O",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Investment Deposit Account (Form 3AB)",
+    "Section under Old Act (1961)": "Section 32AB",
+    "Rule under Old Act (1962)": "Rule 5AB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Site Restoration Fund (Form 3AC)",
+    "Section under Old Act (1961)": "Section 33ABA",
+    "Rule under Old Act (1962)": "Rule 5AD",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 49 / Schedule X",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Site Restoration Fund - Alternative (Form 3AD)",
+    "Section under Old Act (1961)": "Section 33ABA",
+    "Rule under Old Act (1962)": "Rule 5AD",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 49 / Schedule X",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Income Distributed by Business Trust - Foreign (Form 64G)",
+    "Section under Old Act (1961)": "Section 115UA",
+    "Rule under Old Act (1962)": "Rule 12CA",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 223",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Income Distributed by AIF - Foreign (Form 64H)",
+    "Section under Old Act (1961)": "Section 115UB",
+    "Rule under Old Act (1962)": "Rule 12CB",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 224",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of Demand for Advance Tax by AO (Form 28)",
+    "Section under Old Act (1961)": "Section 156 / 210",
+    "Rule under Old Act (1962)": "Rule 15 / 38",
+    "New Form Number under New Act (2025)": "Form No. 103 (Unified Demand)",
+    "Section under New Act (2025)": "Section 289",
+    "Rule under New Act (2026)": "Rule 179"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Warrant of Authorization for Search & Seizure - Additional (Form 45B)",
+    "Section under Old Act (1961)": "Section 132",
+    "Rule under Old Act (1962)": "Rule 112",
+    "New Form Number under New Act (2025)": "Form No. 83",
+    "Section under New Act (2025)": "Section 247(2)",
+    "Rule under New Act (2026)": "Rule 148"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Warrant of Authorization for Search & Seizure - Inter-jurisdiction (Form 45C)",
+    "Section under Old Act (1961)": "Section 132A",
+    "Rule under Old Act (1962)": "Rule 112D",
+    "New Form Number under New Act (2025)": "Form No. 86",
+    "Section under New Act (2025)": "Section 248",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Information by Non-Resident with PAN in specific cases (Form 49C)",
+    "Section under Old Act (1961)": "Section 285",
+    "Rule under Old Act (1962)": "Rule 114DA",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Advance Ruling - by Resident (Form 34DA)",
+    "Section under Old Act (1961)": "Section 245Q",
+    "Rule under Old Act (1962)": "Rule 44E",
+    "New Form Number under New Act (2025)": "Form No. 120",
+    "Section under New Act (2025)": "Section 383(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Advance Ruling - by Non-Resident (Form 34C)",
+    "Section under Old Act (1961)": "Section 245Q",
+    "Rule under Old Act (1962)": "Rule 44E",
+    "New Form Number under New Act (2025)": "Form No. 120",
+    "Section under New Act (2025)": "Section 383(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Advance Ruling - Public Sector Undertaking (Form 34E)",
+    "Section under Old Act (1961)": "Section 245Q",
+    "Rule under Old Act (1962)": "Rule 44E",
+    "New Form Number under New Act (2025)": "Form No. 120",
+    "Section under New Act (2025)": "Section 383(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application to Settlement Commission (Form 34B)",
+    "Section under Old Act (1961)": "Section 245C",
+    "Rule under Old Act (1962)": "Rule 44C",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to DRC Form 119)",
+    "Section under New Act (2025)": "Section 379",
+    "Rule under New Act (2026)": "Rule 197"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Certificate for No TDS on Insurance Commission (Form 15D)",
+    "Section under Old Act (1961)": "Section 194D / 197",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Old Saral Form (Form 2D)",
+    "Section under Old Act (1961)": "Section 139",
+    "Rule under Old Act (1962)": "Rule 12",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Income - Block Assessment for Search cases (Form 2B)",
+    "Section under Old Act (1961)": "Section 158BC",
+    "Rule under Old Act (1962)": "Rule 12AE",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by standard ITR)",
+    "Section under New Act (2025)": "Section 268 / 246",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form for Appeal to AAC / CIT(A) - Pre-1998 Format (Form 35 / Old)",
+    "Section under Old Act (1961)": "Section 246A",
+    "Rule under Old Act (1962)": "Rule 45",
+    "New Form Number under New Act (2025)": "Form No. 99",
+    "Section under New Act (2025)": "Section 356",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of Demand for Tax Recovery (Form 21A)",
+    "Section under Old Act (1961)": "Section 156",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 103 (Unified Demand)",
+    "Section under New Act (2025)": "Section 289",
+    "Rule under New Act (2026)": "Rule 179"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of TDS from Salary - Old Annual Format (Form 24)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Registration of a Firm - Old Act (Form 11 / 11A)",
+    "Section under Old Act (1961)": "Section 184",
+    "Rule under Old Act (1962)": "Rule 22",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration for continuation of firm - Old Act (Form 12)",
+    "Section under Old Act (1961)": "Section 184",
+    "Rule under Old Act (1962)": "Rule 24",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Estimated Tax Payable - Advance Tax (Form 28A)",
+    "Section under Old Act (1961)": "Section 209A",
+    "Rule under Old Act (1962)": "Rule 39",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of TDS from Interest on Securities (Form 19)",
+    "Section under Old Act (1961)": "Section 193 / 203",
+    "Rule under Old Act (1962)": "Rule 31",
+    "New Form Number under New Act (2025)": "Omitted (Unified into 131/132)",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of TDS from Dividend (Form 19A)",
+    "Section under Old Act (1961)": "Section 194 / 203",
+    "Rule under Old Act (1962)": "Rule 31",
+    "New Form Number under New Act (2025)": "Omitted (Unified into 131/132)",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for reference to Valuation Officer (Form 14)",
+    "Section under Old Act (1961)": "Section 55A",
+    "Rule under Old Act (1962)": "Rule 111AA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of declaration under section 197A(1) - Old Format (Form 15B)",
+    "Section under Old Act (1961)": "Section 197A",
+    "Rule under Old Act (1962)": "Rule 29C",
+    "New Form Number under New Act (2025)": "Form No. 121 (Unified)",
+    "Section under New Act (2025)": "Section 393(6)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of declaration under section 197A(1A) - Old Format (Form 15F)",
+    "Section under Old Act (1961)": "Section 197A",
+    "Rule under Old Act (1962)": "Rule 29C",
+    "New Form Number under New Act (2025)": "Form No. 121 (Unified)",
+    "Section under New Act (2025)": "Section 393(6)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of income distributed by Securitisation Trust (Form 64E)",
+    "Section under Old Act (1961)": "Section 115TA",
+    "Rule under Old Act (1962)": "Rule 12BA",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 221",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of short-term capital gains by FIIs (Form 3CEE)",
+    "Section under Old Act (1961)": "Section 115AD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of audit for authors/playwrights/artists (Form 10CA)",
+    "Section under Old Act (1961)": "Section 80QQB",
+    "Rule under Old Act (1962)": "Rule 19AB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Intimation of aggregate amount of loan given (Form 63)",
+    "Section under Old Act (1961)": "Section 115S",
+    "Rule under Old Act (1962)": "Rule 12E",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for allotment of DIN (Misc)",
+    "Section under Old Act (1961)": "Not an IT Act Form",
+    "Rule under Old Act (1962)": "Not Applicable",
+    "New Form Number under New Act (2025)": "Not Applicable",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Warrant of Authorization for requisition of books (Form 45A)",
+    "Section under Old Act (1961)": "Section 132A",
+    "Rule under Old Act (1962)": "Rule 112D",
+    "New Form Number under New Act (2025)": "Form No. 86",
+    "Section under New Act (2025)": "Section 248",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for release of seized assets (Misc)",
+    "Section under Old Act (1961)": "Section 132B",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 247",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of interest paid without TDS (Form 27A)",
+    "Section under Old Act (1961)": "Section 206A",
+    "Rule under Old Act (1962)": "Rule 37A",
+    "New Form Number under New Act (2025)": "Mapped to regular TDS forms",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate to be issued by Mutual Funds/UTI (Form 64)",
+    "Section under Old Act (1961)": "Section 115R",
+    "Rule under Old Act (1962)": "Rule 12B",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form for giving intimation of shifting of registered office (Misc)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for determination of tax payable by Shipping Company (Form 65)",
+    "Section under Old Act (1961)": "Section 115VP",
+    "Rule under Old Act (1962)": "Rule 11T",
+    "New Form Number under New Act (2025)": "Form No. 80",
+    "Section under New Act (2025)": "Section 231",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit report under tonnage tax scheme (Form 66)",
+    "Section under Old Act (1961)": "Section 115VW",
+    "Rule under Old Act (1962)": "Rule 11T",
+    "New Form Number under New Act (2025)": "Form No. 81",
+    "Section under New Act (2025)": "Section 232",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of transfer of capital asset by way of compulsory acquisition (Form 37-I)",
+    "Section under Old Act (1961)": "Section 269UC",
+    "Rule under Old Act (1962)": "Rule 48L",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for certificate under Section 194G (Form 13D)",
+    "Section under Old Act (1961)": "Section 194G",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of short-term capital gains by FIIs (Form 3CEE)",
+    "Section under Old Act (1961)": "Section 115AD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice to Assessing Officer regarding accumulation of income by Trust (Form 10)",
+    "Section under Old Act (1961)": "Section 11(2)",
+    "Rule under Old Act (1962)": "Rule 17",
+    "New Form Number under New Act (2025)": "Form No. 110 (Application) / 111 (Order)",
+    "Section under New Act (2025)": "Section 342(5) / 342(6)",
+    "Rule under New Act (2026)": "Rule 186"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HH - Backward Areas (Form 10C)",
+    "Section under Old Act (1961)": "Section 80HH",
+    "Rule under Old Act (1962)": "Rule 18B",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HHA - Small Scale Ind. (Form 10CC)",
+    "Section under Old Act (1961)": "Section 80HHA",
+    "Rule under Old Act (1962)": "Rule 18BB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HHB - Foreign Projects (Form 10CCA)",
+    "Section under Old Act (1961)": "Section 80HHB",
+    "Rule under Old Act (1962)": "Rule 18BBA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HHBA - Housing Projects (Form 10CCAA)",
+    "Section under Old Act (1961)": "Section 80HHBA",
+    "Rule under Old Act (1962)": "Rule 18BBA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HHC - Exporters (Form 10CCAC)",
+    "Section under Old Act (1961)": "Section 80HHC",
+    "Rule under Old Act (1962)": "Rule 18BBA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HHD - Hotels/Tourism (Form 10CCAD)",
+    "Section under Old Act (1961)": "Section 80HHD",
+    "Rule under Old Act (1962)": "Rule 18BBA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HHE - Software Exports (Form 10CCAE)",
+    "Section under Old Act (1961)": "Section 80HHE",
+    "Rule under Old Act (1962)": "Rule 18BBA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for deduction under Section 80HHF - Film/TV Exports (Form 10CCAF)",
+    "Section under Old Act (1961)": "Section 80HHF",
+    "Rule under Old Act (1962)": "Rule 18BBA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Investment Allowance Reserve (Form 3AA)",
+    "Section under Old Act (1961)": "Section 32AB",
+    "Rule under Old Act (1962)": "Rule 5AB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for grant of approval to fund/institution under 10(23C) (Form 55A)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "Rule 2C",
+    "New Form Number under New Act (2025)": "Omitted (Unified into Form No. 104/105)",
+    "Section under New Act (2025)": "Section 332 / 354",
+    "Rule under New Act (2026)": "Rule 181"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for approval of hospital/medical institution (Form 56A)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "Rule 2C",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for approval of educational institution (Form 56B)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "Rule 2C",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for approval of mutually aided cooperative society (Form 56C)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "Rule 2C",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for exemption under Section 10(23C)(vi) / (via) (Form 56D)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "Rule 2CA",
+    "New Form Number under New Act (2025)": "Omitted (Unified into Form No. 104/105)",
+    "Section under New Act (2025)": "Section 332 / 354",
+    "Rule under New Act (2026)": "Rule 181"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of income distributed by UTI to unitholders (Form 63A)",
+    "Section under Old Act (1961)": "Section 115R",
+    "Rule under Old Act (1962)": "Rule 12B",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of income distributed by Mutual Fund to unitholders (Form 63AA)",
+    "Section under Old Act (1961)": "Section 115R",
+    "Rule under Old Act (1962)": "Rule 12B",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax payable on distributed income by Mutual Fund (Form 63B)",
+    "Section under Old Act (1961)": "Section 115R",
+    "Rule under Old Act (1962)": "Rule 12B",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement by authorized dealer for foreign remittances - Old Act (Form 15CC)",
+    "Section under Old Act (1961)": "Section 195(6)",
+    "Rule under Old Act (1962)": "Rule 37BB",
+    "New Form Number under New Act (2025)": "Form No. 147",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 220(6)(a)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application to obtain information regarding assessment (Form 46)",
+    "Section under Old Act (1961)": "Section 138",
+    "Rule under Old Act (1962)": "Rule 113",
+    "New Form Number under New Act (2025)": "Form No. 88",
+    "Section under New Act (2025)": "Section 258(2)",
+    "Rule under New Act (2026)": "Rule 155"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of application for obtaining certified copies of records (Form 47)",
+    "Section under Old Act (1961)": "Section 138",
+    "Rule under Old Act (1962)": "Rule 113",
+    "New Form Number under New Act (2025)": "Form No. 88",
+    "Section under New Act (2025)": "Section 258(2)",
+    "Rule under New Act (2026)": "Rule 155"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Intimation to Assessing Officer regarding partition of HUF (Misc)",
+    "Section under Old Act (1961)": "Section 171",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 239",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for reduction of capital gains - Reinvestment (Form 54)",
+    "Section under Old Act (1961)": "Section 54 / 54B",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of transfer of immovable property - Chapter XXC (Form 37G)",
+    "Section under Old Act (1961)": "Section 269UC",
+    "Rule under Old Act (1962)": "Rule 48G",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Fortnightly return by registering officer on property transfers (Form 37H)",
+    "Section under Old Act (1961)": "Section 269P",
+    "Rule under Old Act (1962)": "Rule 48H",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to Competent Authority against property acquisition (Form 37F)",
+    "Section under Old Act (1961)": "Section 269G",
+    "Rule under Old Act (1962)": "Rule 48F",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Recovery - Certificate of Arrears (Form 40)",
+    "Section under Old Act (1961)": "Section 222",
+    "Rule under Old Act (1962)": "Rule 117B",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 409 / 411",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Recovery - Notice to Defaulter (Form 41)",
+    "Section under Old Act (1961)": "Section 222",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 411",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Recovery - Warrant of Attachment (Form 42)",
+    "Section under Old Act (1961)": "Section 222",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 411",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Recovery - Proclamation of Sale (Form 43)",
+    "Section under Old Act (1961)": "Section 222",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 411",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Tax Recovery - Certificate of Sale (Form 44)",
+    "Section under Old Act (1961)": "Section 222",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 411",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of Tax Deduction at Source - Old Manual Register (Form 50)",
+    "Section under Old Act (1961)": "Section 200",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of Tax Collection at Source - Old Manual Register (Form 50A)",
+    "Section under Old Act (1961)": "Section 206C",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate to be issued by liquidator of a company (Form 63C)",
+    "Section under Old Act (1961)": "Section 178",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 243",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of securities market transactions by brokers - Old (Form 3BB)",
+    "Section under Old Act (1961)": "Section 133",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by Form 165 SFT)",
+    "Section under New Act (2025)": "Section 508",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application by Hindu Undivided Family for PAN - Old dedicated (Form 49A)",
+    "Section under Old Act (1961)": "Section 139A",
+    "Rule under Old Act (1962)": "Rule 114",
+    "New Form Number under New Act (2025)": "Form No. 94",
+    "Section under New Act (2025)": "Section 262",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration of assets and liabilities - Old Wealth Tax overlap (Form 3)",
+    "Section under Old Act (1961)": "Not an IT Act Form",
+    "Rule under Old Act (1962)": "Not Applicable",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Particulars of expenditure on scientific research - Old manual (Form 3A)",
+    "Section under Old Act (1961)": "Section 35",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for extension of time to file TDS returns (Misc)",
+    "Section under Old Act (1961)": "Section 200",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of short-term capital gains on equity shares (Form 3CEE)",
+    "Section under Old Act (1961)": "Section 115AD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Monthly Return of Fringe Benefits - Old (Form 1)",
+    "Section under Old Act (1961)": "Section 115WD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax withheld from foreign companies - Old (Form 15-I)",
+    "Section under Old Act (1961)": "Section 195",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax withheld from non-resident individuals - Old (Form 15J)",
+    "Section under Old Act (1961)": "Section 195",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form for filing details of immovable property acquired above Rs. 30L (Form 37-I)",
+    "Section under Old Act (1961)": "Section 269UC",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration by the payer of interest on deep discount bonds - Old (Form 15H Old Variant)",
+    "Section under Old Act (1961)": "Section 197A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 121 (Unified)",
+    "Section under New Act (2025)": "Section 393(6)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for certificate to deduct tax at lower rate - Old Section 194C (Form 13C)",
+    "Section under Old Act (1961)": "Section 194C",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for certificate to deduct tax at lower rate - Old Section 194G (Form 13D)",
+    "Section under Old Act (1961)": "Section 194G",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source from contractor payments - Old (Form 26C)",
+    "Section under Old Act (1961)": "Section 194C",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source from insurance commission - Old (Form 26D)",
+    "Section under Old Act (1961)": "Section 194D",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source from winnings from lotteries - Old (Form 26B)",
+    "Section under Old Act (1961)": "Section 194B",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for extension of time for payment of tax - Manual (Form 53)",
+    "Section under Old Act (1961)": "Section 156",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Note: New Form 53 is now used for MAT relief under sec 206)",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for certificate of Tax Clearance - Old Format (Form 32)",
+    "Section under Old Act (1961)": "Section 230",
+    "Rule under Old Act (1962)": "Rule 42",
+    "New Form Number under New Act (2025)": "Form No. 157 / 158",
+    "Section under New Act (2025)": "Section 420(4) / 420(5)",
+    "Rule under New Act (2026)": "Rule 156"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice to a person leaving India - Old Assessment (Form 34)",
+    "Section under Old Act (1961)": "Section 230",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 159 (Clearance)",
+    "Section under New Act (2025)": "Section 420(5)",
+    "Rule under New Act (2026)": "Rule 228"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted from salary - Pre-computerization (Form 22)",
+    "Section under Old Act (1961)": "Section 192",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of deduction of tax at source - Generic Old (Form 23)",
+    "Section under Old Act (1961)": "Section 203",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Unified into 131/132)",
+    "Section under New Act (2025)": "Section 395",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of TDS from interest on securities - Pre-1990s (Form 25)",
+    "Section under Old Act (1961)": "Section 193",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of deduction of tax from dividends - Old (Form 27)",
+    "Section under Old Act (1961)": "Section 194",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration by sub-contractor for non-deduction of TDS (Form 27B)",
+    "Section under Old Act (1961)": "Section 194C",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Unified into Form 121/128)",
+    "Section under New Act (2025)": "Section 393 / 395",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of demand and collection - Manual Department Form (Form 38)",
+    "Section under Old Act (1961)": "Section 156",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of refunds - Manual Department Form (Form 39)",
+    "Section under Old Act (1961)": "Section 237",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of particulars of income from salaries - Old (Form 48)",
+    "Section under Old Act (1961)": "Old Salaries Provision",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of demand under section 156 for advance tax - Manual (Form 51)",
+    "Section under Old Act (1961)": "Section 156 / 210",
+    "Rule under Old Act (1962)": "Rule 15",
+    "New Form Number under New Act (2025)": "Form No. 103 (Unified Demand)",
+    "Section under New Act (2025)": "Section 289",
+    "Rule under New Act (2026)": "Rule 179"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of demand under section 156 for penalty - Manual (Form 52)",
+    "Section under Old Act (1961)": "Section 156",
+    "Rule under Old Act (1962)": "Rule 15",
+    "New Form Number under New Act (2025)": "Form No. 103 (Unified Demand)",
+    "Section under New Act (2025)": "Section 289",
+    "Rule under New Act (2026)": "Rule 179"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate under section 222 or 223 - Old Tax Recovery (Form 57)",
+    "Section under Old Act (1961)": "Section 222 / 223",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 153",
+    "Section under New Act (2025)": "Section 413 / 414",
+    "Rule under New Act (2026)": "Rule 224"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice to defaulter - Old Tax Recovery (Form 58)",
+    "Section under Old Act (1961)": "Section 222",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Notice under Rule 225(2)",
+    "Section under New Act (2025)": "Section 413",
+    "Rule under New Act (2026)": "Rule 225(2)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Warrant of attachment - Old Tax Recovery (Form 59)",
+    "Section under Old Act (1961)": "Section 222",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 413",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of declaration for Section 80HHC - Export Turnover (Form 10CCAB)",
+    "Section under Old Act (1961)": "Section 80HHC",
+    "Rule under Old Act (1962)": "Rule 18BBA",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Section 80-I - Industrial Undertakings (Form 10CCB)",
+    "Section under Old Act (1961)": "Section 80-I",
+    "Rule under Old Act (1962)": "Rule 18BBB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Section 80-IA - Infrastructure Facility (Form 10CCB)",
+    "Section under Old Act (1961)": "Section 80-IA",
+    "Rule under Old Act (1962)": "Rule 18BBB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Section 80-IB - Eligible Business (Form 10CCB)",
+    "Section under Old Act (1961)": "Section 80-IB",
+    "Rule under Old Act (1962)": "Rule 18BBB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Section 80-IC - Special Category States (Form 10CCB)",
+    "Section under Old Act (1961)": "Section 80-IC",
+    "Rule under Old Act (1962)": "Rule 18BBB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Section 80-ID - Hotels/Convention Centers (Form 10CCB)",
+    "Section under Old Act (1961)": "Section 80-ID",
+    "Rule under Old Act (1962)": "Rule 18BBB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Section 80-IE - North-Eastern States (Form 10CCB)",
+    "Section under Old Act (1961)": "Section 80-IE",
+    "Rule under Old Act (1962)": "Rule 18BBB",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Section 80JJA - Bio-degradable waste (Form 10DA)",
+    "Section under Old Act (1961)": "Section 80JJA",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for approval of an infrastructure debt fund (Misc)",
+    "Section under Old Act (1961)": "Section 10(47)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration by a person claiming receipt of certain incomes without TDS (Form 15K)",
+    "Section under Old Act (1961)": "Section 197A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 121 (Unified)",
+    "Section under New Act (2025)": "Section 393(6)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of tax deducted at source from salaries - Old (Form 24)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of tax deducted at source from interest on securities (Form 25)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by Quarterly Forms)",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of tax deducted at source from dividends (Form 26)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from interest other than interest on securities (Form 26A)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by Quarterly Forms)",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from winnings from lotteries/crossword puzzles (Form 26B)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from payments to contractors/sub-contractors (Form 26C)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from insurance commission (Form 26D)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from any other income (Form 26E)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from units of a Mutual Fund/UTI (Form 26F)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from commission on sale of lottery tickets (Form 26G)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from commission, remuneration or brokerage (Form 26H)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from rent (Form 26I)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from fees for professional or technical services (Form 26J)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual return of TDS from income in respect of units (Form 26K)",
+    "Section under Old Act (1961)": "Section 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Half-yearly return of tax collected at source - Old TCS (Form 27E)",
+    "Section under Old Act (1961)": "Section 206C(5A)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for issue of certificate under Section 206C(9) (Form 27F)",
+    "Section under Old Act (1961)": "Section 206C(9)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(3)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate of tax collected at source - Old format (Form 27G)",
+    "Section under Old Act (1961)": "Section 206C(5)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 133",
+    "Section under New Act (2025)": "Section 395(4)",
+    "Rule under New Act (2026)": "Rule 215"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration for non-collection of TCS - Old (Form 27C - Pre-revision)",
+    "Section under Old Act (1961)": "Section 206C(1A)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 394",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of transfer of immovable property - Old preemptive purchase (Form 37G)",
+    "Section under Old Act (1961)": "Section 269UC",
+    "Rule under Old Act (1962)": "Rule 48G",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of aggregate value of transactions - AIR precursor (Form 61A - Old)",
+    "Section under Old Act (1961)": "Section 285BA",
+    "Rule under Old Act (1962)": "Rule 114E",
+    "New Form Number under New Act (2025)": "Form No. 165",
+    "Section under New Act (2025)": "Section 508(1)",
+    "Rule under New Act (2026)": "Rule 237"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual Information Return - AIR (Form 61A - Interim)",
+    "Section under Old Act (1961)": "Section 285BA",
+    "Rule under Old Act (1962)": "Rule 114E",
+    "New Form Number under New Act (2025)": "Form No. 165",
+    "Section under New Act (2025)": "Section 508(1)",
+    "Rule under New Act (2026)": "Rule 237"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Financial Transaction - SFT Initial format (Form 61A - Old)",
+    "Section under Old Act (1961)": "Section 285BA",
+    "Rule under Old Act (1962)": "Rule 114E",
+    "New Form Number under New Act (2025)": "Form No. 165",
+    "Section under New Act (2025)": "Section 508(1)",
+    "Rule under New Act (2026)": "Rule 237"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for permanent registration of Mutual Fund (Form 56)",
+    "Section under Old Act (1961)": "Section 10(23D)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of declaration for wealth tax valuation - Overlap form (Form O)",
+    "Section under Old Act (1961)": "Wealth Tax Act",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Free Trade Zone - FTZ units (Form 56F)",
+    "Section under Old Act (1961)": "Section 10A",
+    "Rule under Old Act (1962)": "Rule 16D",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Export Oriented Units - EOU (Form 56G)",
+    "Section under Old Act (1961)": "Section 10B",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Audit Report for Export of Wood Based Handicrafts (Form 56H)",
+    "Section under Old Act (1961)": "Section 10BA",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice to Show Cause why property should not be acquired (Form 37A)",
+    "Section under Old Act (1961)": "Section 269D",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Chapter XXC obsolete)",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Order of Acquisition of immovable property (Form 37B)",
+    "Section under Old Act (1961)": "Section 269F",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice to surrender possession of acquired property (Form 37C)",
+    "Section under Old Act (1961)": "Section 269I",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice under section 269K regarding compensation (Form 37D)",
+    "Section under Old Act (1961)": "Section 269K",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of order of pre-emptive purchase by Central Govt. (Form 37EE)",
+    "Section under Old Act (1961)": "Section 269UD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of transfer of immovable property - Old format (Form 37F)",
+    "Section under Old Act (1961)": "Section 269UC",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Fringe Benefits - Old FBT specific return (Form 1 - FBT)",
+    "Section under Old Act (1961)": "Section 115WD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of demand for Fringe Benefit Tax (Form 3 - FBT)",
+    "Section under Old Act (1961)": "Section 115WE / 156",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Intimation of Banking Cash Transaction Tax - BCTT (Form 1 - BCTT)",
+    "Section under Old Act (1961)": "Finance Act, 2005",
+    "Rule under Old Act (1962)": "BCTT Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Banking Cash Transaction Tax (Form 2 - BCTT)",
+    "Section under Old Act (1961)": "Finance Act, 2005",
+    "Rule under Old Act (1962)": "BCTT Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to CIT(A) regarding BCTT (Form 3 - BCTT)",
+    "Section under Old Act (1961)": "Finance Act, 2005",
+    "Rule under Old Act (1962)": "BCTT Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to Appellate Tribunal regarding BCTT (Form 4 - BCTT)",
+    "Section under Old Act (1961)": "Finance Act, 2005",
+    "Rule under Old Act (1962)": "BCTT Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Securities Transaction Tax - STT (Form 1 - STT)",
+    "Section under Old Act (1961)": "Finance (No. 2) Act, 2004",
+    "Rule under Old Act (1962)": "STT Rules",
+    "New Form Number under New Act (2025)": "Governed by STT Rules, not IT Act",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of demand for STT (Form 2 - STT)",
+    "Section under Old Act (1961)": "Finance (No. 2) Act, 2004",
+    "Rule under Old Act (1962)": "STT Rules",
+    "New Form Number under New Act (2025)": "Governed by STT Rules, not IT Act",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to CIT(A) regarding STT (Form 3 - STT)",
+    "Section under Old Act (1961)": "Finance (No. 2) Act, 2004",
+    "Rule under Old Act (1962)": "STT Rules",
+    "New Form Number under New Act (2025)": "Governed by STT Rules, not IT Act",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Information to be furnished to the official liquidator (Form 45D)",
+    "Section under Old Act (1961)": "Section 133B",
+    "Rule under Old Act (1962)": "Rule 112E",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by Form 87 for info to IT Authority)",
+    "Section under New Act (2025)": "Section 254",
+    "Rule under New Act (2026)": "Rule 154"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for certificate to deduct tax at lower rate - Non-Residents (Form 15E)",
+    "Section under Old Act (1961)": "Section 195",
+    "Rule under Old Act (1962)": "Rule 29B",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application by Non-Resident for no-deduction of tax (Form 15D - NRI)",
+    "Section under Old Act (1961)": "Section 195",
+    "Rule under Old Act (1962)": "Rule 29B(3)",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application by Foreign Company for no-deduction of tax (Form 15C - NRI)",
+    "Section under Old Act (1961)": "Section 195",
+    "Rule under Old Act (1962)": "Rule 29B(3)",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of declaration by a non-resident for DTAA relief - Old (Form 10F - Pre-revision)",
+    "Section under Old Act (1961)": "Section 90(5)",
+    "Rule under Old Act (1962)": "Rule 21AB",
+    "New Form Number under New Act (2025)": "Form No. 41",
+    "Section under New Act (2025)": "Section 159(8)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of appeals / revisions - Manual Department form (Form 54 - Admin)",
+    "Section under Old Act (1961)": "Administrative",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of recovery certificates - Manual Department form (Form 55 - Admin)",
+    "Section under Old Act (1961)": "Administrative",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Daily collection register - Manual Department form (Form 56 - Admin)",
+    "Section under Old Act (1961)": "Administrative",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for recognizing a provident fund - Old format (Misc)",
+    "Section under Old Act (1961)": "Schedule IV, Part A",
+    "Rule under Old Act (1962)": "Rule 77",
+    "New Form Number under New Act (2025)": "Form No. 186",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "Rule 296"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal against refusal to recognize a provident fund (Misc)",
+    "Section under Old Act (1961)": "Schedule IV, Part A",
+    "Rule under Old Act (1962)": "Rule 81",
+    "New Form Number under New Act (2025)": "Form No. 187",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "Rule 300 / 315 / 329"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for approving a superannuation fund (Misc)",
+    "Section under Old Act (1961)": "Schedule IV, Part B",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal against refusal to approve superannuation fund (Misc)",
+    "Section under Old Act (1961)": "Schedule IV, Part B",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 187",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "Rule 300 / 315 / 329"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for approving a gratuity fund (Misc)",
+    "Section under Old Act (1961)": "Schedule IV, Part C",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal against refusal to approve gratuity fund (Misc)",
+    "Section under Old Act (1961)": "Schedule IV, Part C",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form No. 187",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "Rule 300 / 315 / 329"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for allotment of tax collection account number - TCS specific (Form 49B - Old variant)",
+    "Section under Old Act (1961)": "Section 206CA",
+    "Rule under Old Act (1962)": "Rule 114A",
+    "New Form Number under New Act (2025)": "Form No. 134 / 135 (Unified TAN)",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 216"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194B - Lottery (Form 26B - Old manual)",
+    "Section under Old Act (1961)": "Section 194B / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194BB - Horse racing (Form 26BB - Old manual)",
+    "Section under Old Act (1961)": "Section 194BB / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194EE - NSS deposits (Form 26F - Old manual)",
+    "Section under Old Act (1961)": "Section 194EE / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194F - Mutual Funds (Form 26G - Old manual)",
+    "Section under Old Act (1961)": "Section 194F / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194H - Commission (Form 26H - Old manual)",
+    "Section under Old Act (1961)": "Section 194H / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194I - Rent (Form 26J - Old manual)",
+    "Section under Old Act (1961)": "Section 194-I / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194J - Professional fees (Form 26K - Old manual)",
+    "Section under Old Act (1961)": "Section 194J / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of tax deducted at source under section 194K - Income from units (Form 26L - Old manual)",
+    "Section under Old Act (1961)": "Section 194K / 206",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Form 140)",
+    "Section under New Act (2025)": "Section 397(3)(b)",
+    "Rule under New Act (2026)": "Rule 219"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for exercise of option under section 11(1) - Old manual format (Form 9A)",
+    "Section under Old Act (1961)": "Section 11(1) Exp.",
+    "Rule under Old Act (1962)": "Rule 17",
+    "New Form Number under New Act (2025)": "Form No. 108",
+    "Section under New Act (2025)": "Section 341(7)",
+    "Rule under New Act (2026)": "Rule 184"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for accumulating trust income under section 11(2) (Form 10 - Old format)",
+    "Section under Old Act (1961)": "Section 11(2)",
+    "Rule under Old Act (1962)": "Rule 17",
+    "New Form Number under New Act (2025)": "Form No. 109 / 110",
+    "Section under New Act (2025)": "Section 342(1) / (5)",
+    "Rule under New Act (2026)": "Rule 185 / 186"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of transfer of capital asset by way of compulsory acquisition - Old (Form 37-I)",
+    "Section under Old Act (1961)": "Section 269UC",
+    "Rule under Old Act (1962)": "Rule 48L",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Draft order of assessment - Pre-144B manual format (Misc)",
+    "Section under Old Act (1961)": "Section 144B (Old)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by Faceless Assessment Scheme)",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Order of penalty under section 271 - Manual format (Misc)",
+    "Section under Old Act (1961)": "Section 271",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of demand for fringe benefit tax under section 156 (Form 51 - FBT)",
+    "Section under Old Act (1961)": "Section 115W / 156",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for allotment of TAN for State Govt Departments (Form 49B - State Dept)",
+    "Section under Old Act (1961)": "Section 203A",
+    "Rule under Old Act (1962)": "Rule 114A",
+    "New Form Number under New Act (2025)": "Form No. 134 (Govt)",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 216(1)(a)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for allotment of TAN for Central Govt Departments (Form 49B - Central Dept)",
+    "Section under Old Act (1961)": "Section 203A",
+    "Rule under Old Act (1962)": "Rule 114A",
+    "New Form Number under New Act (2025)": "Form No. 134 (Govt)",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "Rule 216(1)(a)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report under section 115JB(4) for MAT calculation - Old manual (Form 29B - Old)",
+    "Section under Old Act (1961)": "Section 115JB",
+    "Rule under Old Act (1962)": "Rule 40B",
+    "New Form Number under New Act (2025)": "Form No. 66",
+    "Section under New Act (2025)": "Section 206(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Net Wealth - Overlap with IT scrutiny (Form BA)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of Demand for Wealth Tax (Form C)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to AAC/CIT(A) for Wealth Tax (Form D)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Appeal to Appellate Tribunal for Wealth Tax (Form DA)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form of cross-objection to Appellate Tribunal (Form DB)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Reference application to High Court (Form E)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application to Settlement Commission - Wealth Tax (Form F)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Agricultural Land (Form O-1)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Immovable Property - Non-Agri (Form O-2)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Coffee/Tea/Rubber Plantations (Form O-3)",
+    "Section under Old Act (1961)": "Wealth Tax Act, 1957",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Omitted / Abolished",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Forests (Form O-4)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Mines and Quarries (Form O-5)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Stocks, Shares, Debentures (Form O-6)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Machinery and Plant (Form O-7)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Jewelry (Form O-8)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Works of Art (Form O-8A)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of Life Interest / Annuities (Form O-9)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Report of Valuation of any other asset (Form O-10)",
+    "Section under Old Act (1961)": "Wealth Tax Act / Sec 55A",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 170 (Unified Valuation Report)",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 248"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Annual Return by Registered Valuer (Form O-11)",
+    "Section under Old Act (1961)": "Wealth Tax Act",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Registration as Valuer (Form O-12)",
+    "Section under Old Act (1961)": "Wealth Tax Act",
+    "Rule under Old Act (1962)": "Wealth Tax Rules",
+    "New Form Number under New Act (2025)": "Form No. 169",
+    "Section under New Act (2025)": "Section 514",
+    "Rule under New Act (2026)": "Rule 246"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate for lower income salary TDS - Pre-2010 (Form 16AA)",
+    "Section under Old Act (1961)": "Section 192",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted explicitly",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Rule 130(2)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application to invoke Safe Harbour Rules - Core (Form 3CEFA)",
+    "Section under Old Act (1961)": "Section 92CB",
+    "Rule under Old Act (1962)": "Rule 10TE",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 164",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application to invoke Safe Harbour Rules - Specified Domestic (Form 3CEFB)",
+    "Section under Old Act (1961)": "Section 92CB",
+    "Rule under Old Act (1962)": "Rule 10THD",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 164",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Intimation of Secondary Adjustment (Form 3CEEA)",
+    "Section under Old Act (1961)": "Section 92CE",
+    "Rule under Old Act (1962)": "Rule 10CB",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 168",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Safe Harbour - Opt-out declaration (Form 3CEG)",
+    "Section under Old Act (1961)": "Section 92CB",
+    "Rule under Old Act (1962)": "Rule 10TE",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 164",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Safe Harbour - Annual declaration of continuing eligibility (Form 3CEH)",
+    "Section under Old Act (1961)": "Section 92CB",
+    "Rule under Old Act (1962)": "Rule 10TE",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 164",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Approval of Hospital for Medical Relief (Form 56E)",
+    "Section under Old Act (1961)": "Section 10(23C)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted explicitly",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Rule 130(2)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for reference to Valuation Officer - Pre-revision (Form 14A)",
+    "Section under Old Act (1961)": "Section 55A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Reference to Valuation Officer - Alternative format (Form 14B)",
+    "Section under Old Act (1961)": "Section 55A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of Estimated Tax Payable - Old format (Form 29)",
+    "Section under Old Act (1961)": "Section 209A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for granting relief under Section 89 - Manual (Form 10E - Old)",
+    "Section under Old Act (1961)": "Section 89",
+    "Rule under Old Act (1962)": "Rule 21AA",
+    "New Form Number under New Act (2025)": "Form No. 39",
+    "Section under New Act (2025)": "Section 157(1)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement to be furnished by employer for salary perquisites - Old (Form 12BA - Manual)",
+    "Section under Old Act (1961)": "Section 192",
+    "Rule under Old Act (1962)": "Rule 26A(2)",
+    "New Form Number under New Act (2025)": "Omitted explicitly",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Rule 130(1)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of unlisted shares held by FIIs (Form 3CEE - Sub-schedule)",
+    "Section under Old Act (1961)": "Section 115AD",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "As prescribed",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for Tax Clearance for contractors (Form 32A)",
+    "Section under Old Act (1961)": "Section 230",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Unified into Forms 157/158)",
+    "Section under New Act (2025)": "Section 420",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Certificate under Section 230A - Clearance for property transfer (Form 34A - Old)",
+    "Section under Old Act (1961)": "Section 230A",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted explicitly",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Rule 130(2)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Notice of intimation of property valuation (Form 34B - Old)",
+    "Section under Old Act (1961)": "Chapter XXC",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted explicitly",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Rule 130(2)"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of properties - Department Form (Form 37K)",
+    "Section under Old Act (1961)": "Administrative",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Daily Collection Register for Cash (Form 56 - Sub A)",
+    "Section under Old Act (1961)": "Administrative",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of un-cleared cheques (Form 56 - Sub B)",
+    "Section under Old Act (1961)": "Administrative",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Register of T.R. Receipts (Form 56 - Sub C)",
+    "Section under Old Act (1961)": "Administrative",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Declaration for foreign remittance - Pre-15CA/CB era (Form A2 - IT subset)",
+    "Section under Old Act (1961)": "Section 195",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Forms 145/146)",
+    "Section under New Act (2025)": "Section 397",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Form for providing Aadhaar number (Form 12BAA - Interim)",
+    "Section under Old Act (1961)": "Section 139AA",
+    "Rule under Old Act (1962)": "Rule 26B",
+    "New Form Number under New Act (2025)": "Form to be notified",
+    "Section under New Act (2025)": "Section 392",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Return of Information under Section 285 - Old (Form 1 - Sec 285)",
+    "Section under Old Act (1961)": "Section 285",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Replaced by SFT / Form 165)",
+    "Section under New Act (2025)": "Section 508",
+    "Rule under New Act (2026)": "Rule 237"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of deduction of tax from winnings from horse races - Old (Form 26BB - Interim)",
+    "Section under Old Act (1961)": "Section 194BB",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Quarterly Form 140)",
+    "Section under New Act (2025)": "Section 397(3)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Statement of deduction of tax from commission on lottery tickets - Old (Form 26G - Interim)",
+    "Section under Old Act (1961)": "Section 194G",
+    "Rule under Old Act (1962)": "Rule 37",
+    "New Form Number under New Act (2025)": "Omitted (Mapped to Quarterly Form 140)",
+    "Section under New Act (2025)": "Section 397(3)",
+    "Rule under New Act (2026)": "As prescribed"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for lower TDS for film distributors (Form 13 - Sub D)",
+    "Section under Old Act (1961)": "Section 197",
+    "Rule under Old Act (1962)": "Rule 28",
+    "New Form Number under New Act (2025)": "Form No. 128 (Unified)",
+    "Section under New Act (2025)": "Section 395(1)",
+    "Rule under New Act (2026)": "Rule 213"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for specific exemptions - Old Section 10(20A) (Form 56 - Interim)",
+    "Section under Old Act (1961)": "Section 10(20A)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Exemption abolished)",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "Application for specific exemptions - Old Section 10(23G) (Form 56 - Interim)",
+    "Section under Old Act (1961)": "Section 10(23G)",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Exemption abolished)",
+    "Section under New Act (2025)": "Not Applicable",
+    "Rule under New Act (2026)": "Not Applicable"
+  },
+  {
+    "Purpose of the Income Tax Form (Old Form No.)": "General Application for Rectification of Mistakes (Form 2A)",
+    "Section under Old Act (1961)": "Section 154",
+    "Rule under Old Act (1962)": "As prescribed",
+    "New Form Number under New Act (2025)": "Omitted (Done online without specific form)",
+    "Section under New Act (2025)": "Section 283",
+    "Rule under New Act (2026)": "As prescribed"
+  }
+]
