@@ -1,0 +1,274 @@
+[
+  {
+    "SL No": "1",
+    "Form name": "Form RUN LLP",
+    "Purpose of filing the form": "Reserve Unique Name-LLP for new incorporation or changing the name of an existing LLP.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 18(5) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "2",
+    "Form name": "Form FiLLiP",
+    "Purpose of filing the form": "Form for Incorporation of Limited Liability Partnership.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 11 of the LLP Act; Rules 8, 11, and 18 of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "3",
+    "Form name": "Form 3",
+    "Purpose of filing the form": "Information with regard to Limited Liability Partnership Agreement and changes, if any, made therein.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 23(2) of the LLP Act; Rule 21(1) of the LLP Rules",
+    "Due date": "Within 30 days of incorporation or within 30 days of any change",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "4",
+    "Form name": "Form 4",
+    "Purpose of filing the form": "Notice of appointment, cessation, change in name/address/designation of a designated partner/partner and consent to become a partner.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 7(4) and 25(2) of the LLP Act; Rules 8, 10(3), 22(2), and 22(3) of the LLP Rules",
+    "Due date": "Within 30 days of appointment or change",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "5",
+    "Form name": "Form 5",
+    "Purpose of filing the form": "Notice for change of name.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 19 of the LLP Act; Rule 20(2) of the LLP Rules",
+    "Due date": "Within 30 days of complying with the requirement to change the name",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "6",
+    "Form name": "Form 6",
+    "Purpose of filing the form": "Intimation of particulars of name or address of a partner, or change in such particulars by a Partner to the LLP.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 25(1) of the LLP Act; Rule 22(1) of the LLP Rules",
+    "Due date": "Within 15 days of such change",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "7",
+    "Form name": "Form 7",
+    "Purpose of filing the form": "Application for obtaining Designated Partner Identification Number (DPIN).",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 10(1) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "DPINs are now applied for directly via Form FiLLiP at the time of incorporation (you can now apply for up to 5 DPINs this way). If a DPIN is needed after incorporation, the individual must file Form DIR-3."
+  },
+  {
+    "SL No": "8",
+    "Form name": "Form 8",
+    "Purpose of filing the form": "Statement of Account & Solvency and Charge filing (creation/modification/satisfaction of charges).",
+    "Relevant rule and section under LLP rules and LLP act": "Section 34(3) of the LLP Act; Rule 24 of the LLP Rules",
+    "Due date": "Within a period of 30 days from the end of six months of the financial year",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "9",
+    "Form name": "Form 9",
+    "Purpose of filing the form": "Consent to act as Designated Partner.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 7(3) of the LLP Act; Rule 7 of the LLP Rules",
+    "Due date": "Event based (prior to acting as a DP)",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "10",
+    "Form name": "Form 10",
+    "Purpose of filing the form": "Intimation of changes in particulars by Designated Partners.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 10(9) of the LLP Rules",
+    "Due date": "Within 30 days of such changes",
+    "Remarks": "Any changes to a Designated Partner’s personal particulars (address, phone, email) must now be filed using Form DIR-6, rather than Form 10."
+  },
+  {
+    "SL No": "11",
+    "Form name": "Form 11",
+    "Purpose of filing the form": "Annual Return of Limited Liability Partnership.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 35(1) of the LLP Act; Rule 25(1) of the LLP Rules",
+    "Due date": "Within 60 days of closure of its financial year",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "12",
+    "Form name": "Form 12",
+    "Purpose of filing the form": "Form for intimating other address (other than registered office) for service of documents.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 13(2) of the LLP Act; Rule 16(3) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "13",
+    "Form name": "Form 13",
+    "Purpose of filing the form": "Specimen of notice of cessation by a ceasing partner to other Partners.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 24(1) of the LLP Act",
+    "Due date": "Not less than 30 days before the date the partner intends to resign",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "14",
+    "Form name": "Form 14",
+    "Purpose of filing the form": "Intimating the Registrar of Firms/Companies of the conversion of a firm/company into an LLP.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 58(1) proviso of the LLP Act; Rule 33 of the LLP Rules",
+    "Due date": "Within 15 days of the date of registration of conversion",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "15",
+    "Form name": "Form 15",
+    "Purpose of filing the form": "Notice for change of place of registered office.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 13(3) of the LLP Act; Rule 17 of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "16",
+    "Form name": "Form 16",
+    "Purpose of filing the form": "Certificate of Incorporation.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 12(1)(b) of the LLP Act; Rule 11(3) of the LLP Rules",
+    "Due date": "Issued by Registrar",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "17",
+    "Form name": "Form 17",
+    "Purpose of filing the form": "Application and statement for the conversion of a firm into Limited Liability Partnership.",
+    "Relevant rule and section under LLP rules and LLP act": "Second Schedule of the LLP Act; Rule 38(1) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "18",
+    "Form name": "Form 18",
+    "Purpose of filing the form": "Application and Statement for conversion of a private company/unlisted public company into LLP.",
+    "Relevant rule and section under LLP rules and LLP act": "Third and Fourth Schedules of the LLP Act; Rules 39(1) & 40(1)",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "19",
+    "Form name": "Form 19",
+    "Purpose of filing the form": "Certificate of Registration on Conversion.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 58(1) of the LLP Act; Rule 32(1) of the LLP Rules",
+    "Due date": "Issued by Registrar",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "20",
+    "Form name": "Form 20",
+    "Purpose of filing the form": "Affidavit in support of Summons (Compromise, Arrangement, Reconstruction).",
+    "Relevant rule and section under LLP rules and LLP act": "Section 60(1) of the LLP Act; Rule 35(1) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "21",
+    "Form name": "Form 21",
+    "Purpose of filing the form": "Form of advertisement of petition (This is a physical document/newspaper publication, not an e-form, used during Compromise/Arrangement).",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 35(6) of the LLP Rules",
+    "Due date": "Event-based (Not less than 14 days before the hearing)",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "22",
+    "Form name": "Form 22",
+    "Purpose of filing the form": "Notice of intimation of Order of Court/Tribunal/CLB/Central Government to the Registrar (including compounding of offences).",
+    "Relevant rule and section under LLP rules and LLP act": "Rules 35(11), 35(17) and 41(4) of the LLP Rules",
+    "Due date": "Within 30 days of making the order, or within 7 days for compounding of an offence",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "23",
+    "Form name": "Form 23",
+    "Purpose of filing the form": "Application for direction to Limited Liability Partnership to change its name.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 19(1) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "24",
+    "Form name": "Form 24",
+    "Purpose of filing the form": "Application to the Registrar for striking off name.",
+    "Relevant rule and section under LLP rules and LLP act": "Section 75 of the LLP Act; Rule 37(1)(b) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "25",
+    "Form name": "Form 25",
+    "Purpose of filing the form": "Application for reservation/ renewal of name by a Foreign LLP/Foreign Company.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 18(3) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "26",
+    "Form name": "Form 26",
+    "Purpose of filing the form": "Form of Proxy (for appointing a proxy to vote at meetings).",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 35(4) of the LLP Rules",
+    "Due date": "Filed not later than 48 hours before the meeting",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "27",
+    "Form name": "Form 27",
+    "Purpose of filing the form": "Form for registration of particulars by Foreign Limited Liability Partnership (FLLP).",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 34(1) of the LLP Rules",
+    "Due date": "Within 30 days of establishing a place of business in India",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "28",
+    "Form name": "Form 28",
+    "Purpose of filing the form": "Alteration in the incorporation document, registered/principal office, partners, certificate of registration, authorized representatives, or cessation/closure of FLLP (Replaces Form 29).",
+    "Relevant rule and section under LLP rules and LLP act": "Rules 34(3) and 34(8) of the LLP Rules",
+    "Due date": "Within 60 days of the close of the financial year (for structural changes) or within 30 days (for closure/address changes)",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "29",
+    "Form name": "Form 30",
+    "Purpose of filing the form": "Certificate for Establishment of Place of Business in India.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 34(10) of the LLP Rules",
+    "Due date": "Issued by Registrar",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "30",
+    "Form name": "Form 31",
+    "Purpose of filing the form": "Application for compounding of an offence under the Act.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 41(1) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "31",
+    "Form name": "Form 32",
+    "Purpose of filing the form": "Form for filing addendum for rectification of defects or incompleteness.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 36(6) of the LLP Rules",
+    "Due date": "Event based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "32",
+    "Form name": "Form DIR-3",
+    "Purpose of filing the form": "Application for allotment of Director/Designated Partner Identification Number (DIN/DPIN) for new partners post-incorporation.",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 9(1) of Companies (Appointment and Qualification of Directors) Rules & LLP Rules",
+    "Due date": "Event-based",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "33",
+    "Form name": "Form DIR-6",
+    "Purpose of filing the form": "Intimation of change in particulars of a Designated Partner (Replaces the practical use of LLP Form 10).",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 12(1) of Companies (Appointment and Qualification of Directors) Rules & LLP Rules",
+    "Due date": "Within 30 days of such change",
+    "Remarks": "-"
+  },
+  {
+    "SL No": "34",
+    "Form name": "Form DIR-3 KYC / Web",
+    "Purpose of filing the form": "Mandatory annual KYC verification for all Designated Partners holding a valid DIN/DPIN to keep their status \"\"Active\"\".",
+    "Relevant rule and section under LLP rules and LLP act": "Rule 12A of Companies (Appointment and Qualification of Directors) Rules",
+    "Due date": "Annually, on or before 30th September",
+    "Remarks": "-"
+  }
+]
