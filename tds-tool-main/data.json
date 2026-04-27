@@ -1,0 +1,812 @@
+[
+  {
+    "Nature of Payment ": "Salary to Employee",
+    "Old Act (1961)": "Under Section 192",
+    "New Act (2025)": "Payment of Employees other than Government Employees - 392 - 1002",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "Rates in force - - (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - - (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS"
+  },
+  {
+    "Nature of Payment ": "Accumulated balance of EPF",
+    "Old Act (1961)": "Under Section 192A",
+    "New Act (2025)": "Payment of accumulated balance due to an employee - 392(7) - 1004",
+    "Specified Person for this purpose": "-",
+    "Threshold": "50000",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Commission to Insurance Agent",
+    "Old Act (1961)": "Under Section 194D",
+    "New Act (2025)": "Commission or brokerage - insurance - 393(1) [Table: Sl. No. 1(i)] - 1005",
+    "Specified Person for this purpose": "-",
+    "Threshold": "20000",
+    "Applicable rate": "Rates in force - \n2% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(v)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - \n2% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(v)"
+  },
+  {
+    "Nature of Payment ": "Brokerage and Commission",
+    "Old Act (1961)": "Under Section 194H",
+    "New Act (2025)": "Commission or brokerage - others - 393(1) [Table: Sl. No. 1(ii)] - 1006",
+    "Specified Person for this purpose": "-",
+    "Threshold": "20000",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Rent on Machinery",
+    "Old Act (1961)": "Under Section 194-I",
+    "New Act (2025)": "Rent paid by specified person - 393(1) [Table: Sl. No. 2(ii).D(a)] - 1008",
+    "Specified Person for this purpose": "Individual or, HUF with Turnover from Business above 1Cr or, from Profession above 50 L",
+    "Threshold": "50000",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Rent on other than Machinery",
+    "Old Act (1961)": "Under Section 194-I",
+    "New Act (2025)": "Rent paid by other than specified person - 393(1) [Table: Sl. No. 2(ii).D(b)] - 1009",
+    "Specified Person for this purpose": "Individual or, HUF with Turnover from Business above 1Cr or, from Profession above 50 L",
+    "Threshold": "50000",
+    "Applicable rate": "(a) 2% - if Rent on Plant and machinery\n(b) 10% - if rent on others",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "(a) 2% - if Rent on Plant and machinery\n(b) 10% - if rent on others"
+  },
+  {
+    "Nature of Payment ": "Payment under Specified agreement",
+    "Old Act (1961)": "Under Section 194-IC",
+    "New Act (2025)": "Payment on any consideration, not being consideration in kind, under the agreement referred to in section 67(14) - 393(1) [Table: Sl. No. 3(ii)] - 1011",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Payment of Compulsory Acquisition (both compensation and enhanced compensation)",
+    "Old Act (1961)": "Under Section \n194LA",
+    "New Act (2025)": "Payment of Compensation on Acquisition of Certain Immovable Property - 393(1) [Table: Sl. No. 3(iii)] - 1012",
+    "Specified Person for this purpose": "-",
+    "Threshold": "500000",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Income in respect of Specified mutual fund",
+    "Old Act (1961)": "Under Section 194K",
+    "New Act (2025)": "Income payable to a resident assessee in respect of Units of a specified Mutual Fund specified under Schedule VII [Table: Sl. No. 20 or 21] or units from the Administrator of the specified undertaking or units from specified company - 393(1) [Table: Sl. No. 4(i)] - 1013",
+    "Specified Person for this purpose": "-",
+    "Threshold": "10000",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Interest to unitholder of Business Trust",
+    "Old Act (1961)": "Under Section 194LBA",
+    "New Act (2025)": "Certain income in the form of interest from units of a business trust to a resident unit holder - 393(1) [Table: Sl. No. 4(i)] - 1014",
+    "Specified Person for this purpose": "-",
+    "Threshold": "10000",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Dividend to unitholder of Business Trust",
+    "Old Act (1961)": "Under Section 194LBA",
+    "New Act (2025)": "Certain income in the form of dividend from units of a business trust to a resident unit holder - 393(1) [Table: Sl. No. 4(ii)] - 1015",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Distribution to unitholder of Business Trust being a Real Estate Investment Trust",
+    "Old Act (1961)": "Under Section 194LBA",
+    "New Act (2025)": "Certain income in the form of Renting from units of a business trust being a real estate investment trust to a resident unit holder - 393(1) [Table: Sl. No. 4(ii)] - 1016",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Income in respect of units of Specified Investment Fund",
+    "Old Act (1961)": "Under Section 194LBB",
+    "New Act (2025)": "Any income, other than that proportion of income which is exempt under Schedule V [Table: Sl. No. 2], in respect of units of an investment fund specified in section 224, payable to its unitholder - 393(1) [Table: Sl. No. 4(iii)] - 1017",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Income in respect of units of Specified Securitization Trust",
+    "Old Act (1961)": "Under Section 194LBC",
+    "New Act (2025)": "Any income, in respect of an investment in a securitisation trust specified in section 221 to an investor - 393(1) [Table: Sl. No. 4(iv)] - 1018",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Interest on Securities",
+    "Old Act (1961)": "Under Section 193",
+    "New Act (2025)": "Any income by way of Interest on securities - 393(1) [Table: Sl. No. 5(i)] - 1019",
+    "Specified Person for this purpose": "-",
+    "Threshold": "10000",
+    "Applicable rate": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(vii)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(vii)"
+  },
+  {
+    "Nature of Payment ": "Interest other than Interest on Securities",
+    "Old Act (1961)": "Under Section 194A",
+    "New Act (2025)": "Any income by way of interest other than interest on securities, in case of deductee/payee is a senior citizen - 393(1) [Table: Sl. No. 5(ii).D(a)] - 1020",
+    "Specified Person for this purpose": "-",
+    "Threshold": "100000",
+    "Applicable rate": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(i)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(i)"
+  },
+  {
+    "Nature of Payment ": "Interest other than Interest on Securities",
+    "Old Act (1961)": "Under Section 194A",
+    "New Act (2025)": "Any income by way of interest other than interest on securities, in case of deductee/payee is other than senior citizen - 393(1) [Table: Sl. No. 5(ii).D(b)] - 1021",
+    "Specified Person for this purpose": "-",
+    "Threshold": "50000",
+    "Applicable rate": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(i)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(i)"
+  },
+  {
+    "Nature of Payment ": "Interest other than Interest on Securities",
+    "Old Act (1961)": "Under Section 194A",
+    "New Act (2025)": "Any income being interest other than interest on securities - 393(1) [Table: Sl. No. 5(iii)] - 1022",
+    "Specified Person for this purpose": "-",
+    "Threshold": "10000",
+    "Applicable rate": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(i)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - \n10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(i)"
+  },
+  {
+    "Nature of Payment ": "Payment under a Contract",
+    "Old Act (1961)": "Under Section 194C",
+    "New Act (2025)": "Any sum for carrying out any work (including supply of labour for carrying out any work) in pursuance of a contract between the contractor and a designated person - if contractor is individual or Hindu undivided family - 393(1) [Table: Sl. No. 6(i).D(a)] - 1023",
+    "Specified Person for this purpose": "-",
+    "Threshold": "Rs. 30,000/- for single payment\nRs. 1,00,000/- aggregate payments under a contract",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "1%"
+  },
+  {
+    "Nature of Payment ": "Payment under a Contract",
+    "Old Act (1961)": "Under Section 194C",
+    "New Act (2025)": "Any sum for carrying out any work (including supply of labour for carrying out any work) in pursuance of a contract between the contractor and a designated person - if contractor is a person other than individual or Hindu undivided family - 393(1) [Table: Sl. No. 6(i).D(b)] - 1024",
+    "Specified Person for this purpose": "-",
+    "Threshold": "Rs. 30,000/- for single payment\nRs. 1,00,000/- aggregate payments under a contract",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Payments by Individual or, HUF other than those required to deduct tax under 194C, 194J, 194H",
+    "Old Act (1961)": "Under Section 194M",
+    "New Act (2025)": "Any sum by way of— (a) fees for technical services (not being a professional services); or (b) royalty in the nature of consideration for sale, distribution or exhibition of cinematographic films; or (c) payee, engaged only in the business of operation of call centre - from Specified person - 393(1) [Table: Sl. No. 6(ii).D(a)] - 1026",
+    "Specified Person for this purpose": "-",
+    "Threshold": "5000000",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Payments by Individual or, HUF other than those required to deduct tax under 194C, 194J, 194H",
+    "Old Act (1961)": "Under Section 194M",
+    "New Act (2025)": "Any sum by way of— (a) fees for professional services; or (b) any sum referred to in section 26(2)(h) - from Specified person - 393(1) [Table: Sl. No. 6(ii).D(b)] - 1027",
+    "Specified Person for this purpose": "-",
+    "Threshold": "5000000",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Profressional Fees",
+    "Old Act (1961)": "Under Section 194J",
+    "New Act (2025)": "Any sum by way of remuneration or fees or commission by whatever name called, other than those on which tax is deductible under section 392, to a director of a company - from Specified person - 393(1) [Table: Sl. No. 6(iii).D(b)] - 1028",
+    "Specified Person for this purpose": "-",
+    "Threshold": "50000",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Dividend",
+    "Old Act (1961)": "Under Section 194",
+    "New Act (2025)": "Any dividends (including on preference shares) declared - 393(1) [Table: Sl. No. 7] - 1029",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Payment from Life Insurance Policies",
+    "Old Act (1961)": "Under Section 194DA",
+    "New Act (2025)": "Any sum under a life insurance policy, including the sum allocated as bonus on such policy, other than the amount not includible in the total income under Schedule II [Table: Sl. No. 2] - 393(1) [Table: Sl. No. 8(i)] - 1030",
+    "Specified Person for this purpose": "-",
+    "Threshold": "100000",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Payment on purchase of goods\nabove 50,00,000/-",
+    "Old Act (1961)": "Under Section 194Q",
+    "New Act (2025)": "Any sum for purchase of any goods - 393(1) [Table: Sl. No. 8(ii)] - 1031",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "0%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0%"
+  },
+  {
+    "Nature of Payment ": "Payment to Specified Senior Citizen",
+    "Old Act (1961)": "Under Section 194P",
+    "New Act (2025)": "Payment to Specified Senior Citizen - 393(1) [Table: Sl. No. 8(iii)] - 1032",
+    "Specified Person for this purpose": "-",
+    "Threshold": "As applicable",
+    "Applicable rate": "Rates in force - 10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(vii)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - 10% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(vii)"
+  },
+  {
+    "Nature of Payment ": "Payment of Benefits and Perquisistes",
+    "Old Act (1961)": "Under Section 194R",
+    "New Act (2025)": "Any benefit or perquisite, whether convertible into money or not, arising from business or the exercise of a profession of any resident - 393(1) [Table: Sl. No. 8(iv)] - 1033",
+    "Specified Person for this purpose": "-",
+    "Threshold": "20000",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Remittance by ECO for sale of goods or services by participant through such ECO",
+    "Old Act (1961)": "Under Section 194-O",
+    "New Act (2025)": "Sale of goods or provision of services by an e-commerce participant, facilitated by an e-commerce operator through its digital or electronic facility or platform - any e commerce operator - 393(1) [Table: Sl. No. 8(v)] - 1035",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "0%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0%"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of Virtual Digital Assets",
+    "Old Act (1961)": "Under Section 194S",
+    "New Act (2025)": "Any sum by way of consideration for transfer of a virtual digital asset by other than Individual or Hindu Undivided Family - 393(1) [Table: Sl. No. 8(vi)] - 1037",
+    "Specified Person for this purpose": "-",
+    "Threshold": "0",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "1%"
+  },
+  {
+    "Nature of Payment ": "Casual Incomes except online gaming and horse races",
+    "Old Act (1961)": "Under Section 194B",
+    "New Act (2025)": "Any income by way of winnings (other than winnings from Sl. No. 2 of the table at section 393(3)) from— (a) any lottery; or (b) crossword puzzle; or (c) card game and other game of any sort; or (d) gambling or betting of any form or nature whatsoever - 393(3) [Table: Sl. No. 1] - 1058",
+    "Specified Person for this purpose": "-",
+    "Threshold": "10000",
+    "Applicable rate": "Rates in force - 30% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(ii)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - 30% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(ii)"
+  },
+  {
+    "Nature of Payment ": "Casual Income from online gaming",
+    "Old Act (1961)": "Under Section 194BA",
+    "New Act (2025)": "Any income by way of winnings from online game - 393(3) [Table: Sl. No. 2] - 1060",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "Rates in force - 30% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(iv)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - 30% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(iv)"
+  },
+  {
+    "Nature of Payment ": "Casual Income from Horse Races",
+    "Old Act (1961)": "Under Section 194BB",
+    "New Act (2025)": "Any income by way of winnings from any horse race - 393(3) [Table: Sl. No. 3] - 1062",
+    "Specified Person for this purpose": "-",
+    "Threshold": "10000",
+    "Applicable rate": "Rates in force - 30% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(iii)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force - 30% (as per Finance Act, 2026)\nSch - I, Part II : Rates of TDS - \nPara 1(a)(iii)"
+  },
+  {
+    "Nature of Payment ": "Commissioon on sale of lottery tickets etc",
+    "Old Act (1961)": "Under Section 194G",
+    "New Act (2025)": "Any income, credited or paid to a person, who is or has been stocking, distributing, purchasing or selling lottery tickets, by way of commission, remuneration or prize (by whatever name called) on such tickets - 393(3) [Table: Sl. No. 4] - 1063",
+    "Specified Person for this purpose": "-",
+    "Threshold": "20000",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Payment of Cash (withdrawals of cash from Banks, post offices or cooperative societies)",
+    "Old Act (1961)": "Under Section 194N",
+    "New Act (2025)": "Payment of certain amounts in cash by bank/ post office / co-operative society to a deductee being a co-operative society - 393(3) [Table: Sl. No. 5.D(a)] - 1064",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1. 3,00,00,000/- if recipient is Co-opreative society\n2. 1,00,00,000/- if recipient is other than Co-operative society",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Payment of Cash (withdrawals of cash from Banks, post offices or cooperative societies)",
+    "Old Act (1961)": "Under Section 194N",
+    "New Act (2025)": "Payment of certain amounts in cash by bank/ post office / co-operative society to a deductee being a person other than co-operative society - 393(3) [Table: Sl. No. 5.D(b)] - 1065",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1. 3,00,00,000/- if recipient is Co-opreative society\n2. 1,00,00,000/- if recipient is other than Co-operative society",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "2%"
+  },
+  {
+    "Nature of Payment ": "Withdrawal from NSS (no deduction under this  section post 04.04.2025 vide notification 27/2025 dt 04.04.2025) - NO RELAXATION YET UNDER THE NEW ACT",
+    "Old Act (1961)": "Under Section 194EE ",
+    "New Act (2025)": "Any amount referred to in section 80CCA(2)(a) of the Income-tax Act, 1961 (43 of 1961) - 393(3) [Table: Sl. No. 6] - 1066",
+    "Specified Person for this purpose": "-",
+    "Threshold": "2500",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Payment to Partners of a Firm",
+    "Old Act (1961)": "Under Section 194T",
+    "New Act (2025)": "Any sum in the nature of salary, remuneration, commission, bonus or interest paid to a partner of the firm or credited to his account (including capital account) - 393(3) [Table: Sl. No. 7] - 1067",
+    "Specified Person for this purpose": "-",
+    "Threshold": "20000",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of sepcified goods - Alcoholic Liquor",
+    "Old Act (1961)": "Under Section 206C(1)",
+    "New Act (2025)": "Sale of alcoholic liquor for human consumption - 394(1) [Table: Sl. No. 1] - 1068",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of sepcified goods - Tendu Leaves",
+    "Old Act (1961)": "Under Section 206C(1)",
+    "New Act (2025)": "Sale of tendu leaves - 394(1) [Table: Sl. No. 2] - 1069",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "5%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of sepcified goods - Timber obtained under forest lease",
+    "Old Act (1961)": "Under Section 206C(1)",
+    "New Act (2025)": "Sale of timber obtained under a forest lease - 394(1) [Table: Sl. No. 3] - 1070",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of sepcified goods - Timber obtained by other than forest lease",
+    "Old Act (1961)": "Under Section 206C(1)",
+    "New Act (2025)": "Sale of timber obtained by any mode other than a forest lease - 394(1) [Table: Sl. No. 3] - 1071",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of sepcified goods - any other forest produce",
+    "Old Act (1961)": "Under Section 206C(1)",
+    "New Act (2025)": "Sale of any other forest produce (not being timber or tendu leaves) obtained under a forest lease - 394(1) [Table: Sl. No. 3] - 1072",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of sepcified goods - scrap",
+    "Old Act (1961)": "Under Section 206C(1)",
+    "New Act (2025)": "Sale of Scrap - 394(1) [Table: Sl. No. 4] - 1073",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of sepcified goods - minerals like coal, ignite, iron etc",
+    "Old Act (1961)": "Under Section 206C(1)",
+    "New Act (2025)": "Sale of minerals, being coal or lignite or iron ore - 394(1) [Table: Sl. No. 5] - 1074",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Motor vehicles",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of motor vehicle - 394(1) [Table: Sl. No. 6(a)] - 1075",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Wrist Watches",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of wrist watch - 394(1) [Table: Sl. No. 6(b)] - 1076",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Paintings, Sculptures, Antiques etc",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of art piece such as antiques, painting, sculpture - 394(1) [Table: Sl. No. 6(b)] - 1077",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being coins, stamps, other collectibles",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of collectibles such as coin, stamp - 394(1) [Table: Sl. No. 6(b)] - 1078",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Rowing Boats, Yacht, Helicopter etc",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of yacht, rowing boat, canoe, helicopter - 394(1) [Table: Sl. No. 6(b)] - 1079",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Sunglasses",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of pair of sunglasses - 394(1) [Table: Sl. No. 6(b)] - 1080",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being handbags, purse etc",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of bag such as handbag, purse - 394(1) [Table: Sl. No. 6(b)] - 1081",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Shoes etc",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of pair of shoes - 394(1) [Table: Sl. No. 6(b)] - 1082",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Sportswear such as golf kit, ski-wear etc",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of sportswear and equipment such as golf kit, ski-wear - 394(1) [Table: Sl. No. 6(b)] - 1083",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being Home theatre system",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of home theatre system - 394(1) [Table: Sl. No. 6(b)] - 1084",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration on sale of motor vehicles or, other specified goods exceeding 10,00,000/- - specified goods being horses sold for horse racing",
+    "Old Act (1961)": "Under Section 206C(1F)",
+    "New Act (2025)": "Sale consideration exceeding Rs. 10,00,000 in case of sale of horse for horse racing in race clubs and horse for polo - 394(1) [Table: Sl. No. 6(b)] - 1085",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.01"
+  },
+  {
+    "Nature of Payment ": "Consideration received by Authorized Dealer for Remittance under LRS notified by RBI - for education or, medical treatment",
+    "Old Act (1961)": "Under Section 206C(1G)",
+    "New Act (2025)": "Remittance under the Liberalised Remittance Scheme of an amount or aggregate of the amounts exceeding Rs. 10,00,000 for purposes of education or medical treatment - 394(1) [Table: Sl. No. 7.D(a)] - 1086",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "5%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration received by Authorized Dealer for Remittance under LRS notified by RBI - for other than education or, medical treatment",
+    "Old Act (1961)": "Under Section 206C(1G)",
+    "New Act (2025)": "Remittance under the Liberalised Remittance Scheme of an amount or aggregate of the amounts exceeding Rs. 10,00,000 for purposes other than education or medical treatment - 394(1) [Table: Sl. No. 7.D(b)] - 1087",
+    "Specified Person for this purpose": "-",
+    "Threshold": "1000000",
+    "Applicable rate": "20%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.2"
+  },
+  {
+    "Nature of Payment ": "Consideration on Sale of Overseas Tour Package - aggregate payment upto 10,00,000/-",
+    "Old Act (1961)": "Under Section 206C(1G)",
+    "New Act (2025)": "Sale of “overseas tour programme package” including expenses for travel or hotel stay or boarding or lodging or any such similar or related expenditure with amount or aggregate of amounts up to Rs. 10,00,000 - 394(1) [Table: Sl. No. 8.D(a)] - 1088",
+    "Specified Person for this purpose": "-",
+    "Threshold": "< Rs.  10,00,000/- ",
+    "Applicable rate": "5%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on Sale of Overseas Tour Package - above 10,00,000/-",
+    "Old Act (1961)": "Under Section 206C(1G)",
+    "New Act (2025)": "Sale of “overseas tour programme package” including expenses for travel or hotel stay or boarding or lodging or any such similar or related expenditure with amount or aggregate of amounts above Rs. 10,00,000 - 394(1) [Table: Sl. No. 8.D(b)] - 1089",
+    "Specified Person for this purpose": "-",
+    "Threshold": "> Rs.  10,00,000/-",
+    "Applicable rate": "20%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on grant of license for operation of parking lot",
+    "Old Act (1961)": "Under Section 206C(1C)",
+    "New Act (2025)": "Use of parking lot for the purpose of business, excluding mining and quarrying of mineral oil (including petroleum and natural gas) - 394(1) [Table: Sl. No. 9] - 1090",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on grant of license for operation of toll plaza",
+    "Old Act (1961)": "Under Section 206C(1C)",
+    "New Act (2025)": "Use of toll plaza for the purpose of business, excluding mining and quarrying of mineral oil (including petroleum and natural gas) - 394(1) [Table: Sl. No. 9] - 1091",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Consideration on grant of license for operation of mines or, quarries",
+    "Old Act (1961)": "Under Section 206C(1C)",
+    "New Act (2025)": "Use of mine or quarry for the purpose of business, excluding mining and quarrying of mineral oil (including petroleum and natural gas) - 394(1) [Table: Sl. No. 9] - 1092",
+    "Specified Person for this purpose": "-",
+    "Threshold": "-",
+    "Applicable rate": "2%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.02"
+  },
+  {
+    "Nature of Payment ": "Non-resident sportsman (including an athlete) or entertainer, or a non-resident sports association or institution,",
+    "Old Act (1961)": "Under Section 194E",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 1]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "20%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "20%"
+  },
+  {
+    "Nature of Payment ": "Interest payable in respect of moneys borrowed in foreign currency (under loan agreement / LT infra bond before 1 July 2023)",
+    "Old Act (1961)": "Under Section 194LC",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 2]",
+    "Specified Person for this purpose": "Any Indian company or a business trust",
+    "Threshold": "Nil",
+    "Applicable rate": "5%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "5%"
+  },
+  {
+    "Nature of Payment ": "Interest payable in respect of moneys borrowed from outside India by issue of rupee denominated bond before 1 July 2023",
+    "Old Act (1961)": "Under Section 194LC",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 3]",
+    "Specified Person for this purpose": "Any Indian company or a business trust",
+    "Threshold": "Nil",
+    "Applicable rate": "5%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "5%"
+  },
+  {
+    "Nature of Payment ": "Interest payable in respect of moneys borrowed from outside India by issue of any LT bond or rupee denominated bond listed in IFSC",
+    "Old Act (1961)": "Under Section 194LC",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 4]",
+    "Specified Person for this purpose": "Any Indian company or a business trust",
+    "Threshold": "Nil",
+    "Applicable rate": "(a) 4% (issued before 1 Jul 2023); (b) 9% (issued on/after 1 Jul 2023)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "(a) 4% (issued before 1 Jul 2023); (b) 9% (issued on/after 1 Jul 2023)"
+  },
+  {
+    "Nature of Payment ": "Interest received from infrastructure debt fund",
+    "Old Act (1961)": "Under Section 194LB / 115A",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 5]",
+    "Specified Person for this purpose": "Any infrastructure debt fund",
+    "Threshold": "Nil",
+    "Applicable rate": "5%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "5%"
+  },
+  {
+    "Nature of Payment ": "Distributed income from business trust (Interest or Dividend nature)",
+    "Old Act (1961)": "Under Section 194LBA",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 6]",
+    "Specified Person for this purpose": "Any business trust",
+    "Threshold": "Nil",
+    "Applicable rate": "(a) 5% (interest nature); (b) 10% (dividend nature)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "(a) 5% (interest nature); (b) 10% (dividend nature)"
+  },
+  {
+    "Nature of Payment ": "Distributed income from business trust (Rent nature)",
+    "Old Act (1961)": "Under Section 194LBA",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 7]",
+    "Specified Person for this purpose": "Any business trust",
+    "Threshold": "Nil",
+    "Applicable rate": "Rates in force",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force"
+  },
+  {
+    "Nature of Payment ": "Income in respect of units of an investment fund,",
+    "Old Act (1961)": "Under Section 194LBB",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 8]",
+    "Specified Person for this purpose": "Any investment fund specified in sec 224",
+    "Threshold": "Nil",
+    "Applicable rate": "Rates in force",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force"
+  },
+  {
+    "Nature of Payment ": "Income in respect of an investment in a securitisation trust",
+    "Old Act (1961)": "Under Section 194LBC",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 9]",
+    "Specified Person for this purpose": "Any securitisation trust specified in sec 221",
+    "Threshold": "Nil",
+    "Applicable rate": "Rates in force",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force"
+  },
+  {
+    "Nature of Payment ": "Income in respect of units of a Mutual Fund or specified company,,",
+    "Old Act (1961)": "Under Section 196A",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 10]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "20% (or treaty rate if lower)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "20% (or treaty rate if lower)"
+  },
+  {
+    "Nature of Payment ": "Income in respect of units to an offshore fund",
+    "Old Act (1961)": "Under Section 196B",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 11]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Long-term capital gains arising from the transfer of units to an offshore fund",
+    "Old Act (1961)": "Under Section 196B",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 12]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "12.50%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "12.50%"
+  },
+  {
+    "Nature of Payment ": "Interest or dividends in respect of bonds or Global Depository Receipts (GDRs),",
+    "Old Act (1961)": "Under Section 196C",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 13]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Long-term capital gains arising from the transfer of bonds or GDRs",
+    "Old Act (1961)": "Under Section 196C",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 14]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "12.50%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "12.50%"
+  },
+  {
+    "Nature of Payment ": "Income of Foreign Institutional Investors (FII) from securities,",
+    "Old Act (1961)": "Under Section 196D",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 15]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "20% (or treaty rate if lower)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "20% (or treaty rate if lower)"
+  },
+  {
+    "Nature of Payment ": "Income of Specified Fund from securities",
+    "Old Act (1961)": "Under Section 196D",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 16]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Any interest or other sum chargeable (not being Salaries)",
+    "Old Act (1961)": "Under Section 195",
+    "New Act (2025)": "Section 393(2) [Table: Sl. No. 17]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "Rates in force",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force"
+  },
+  {
+    "Nature of Payment ": "Winnings from lottery, crossword puzzle, race (including horse race), card games, or gambling/betting",
+    "Old Act (1961)": "Under Section 194B / 194BB",
+    "New Act (2025)": "Section 393(3) [Table: Sl. No. 1]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "10000",
+    "Applicable rate": "30%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "30%"
+  },
+  {
+    "Nature of Payment ": "Net winnings from online games",
+    "Old Act (1961)": "Under Section 194BA",
+    "New Act (2025)": "Section 393(3) [Table: Sl. No. 2]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "Nil",
+    "Applicable rate": "30%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "30%"
+  },
+  {
+    "Nature of Payment ": "Payment from National Savings Scheme (NSS)",
+    "Old Act (1961)": "Under Section 194EE",
+    "New Act (2025)": "Section 393(3) [Table: Sl. No. 6]",
+    "Specified Person for this purpose": "Any person",
+    "Threshold": "2500",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Salary, remuneration, commission, bonus or interest paid to a partner of a firm",
+    "Old Act (1961)": "Under Section 194T",
+    "New Act (2025)": "Section 393(3) [Table: Sl. No. 7]",
+    "Specified Person for this purpose": "Any person, being a firm",
+    "Threshold": "20000",
+    "Applicable rate": "10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "10%"
+  },
+  {
+    "Nature of Payment ": "Payment on transfer of certain immovable property other than agricultural land",
+    "Old Act (1961)": "Under Section 194-IA",
+    "New Act (2025)": "Under Section 393",
+    "Specified Person for this purpose": "Transferee (Purchaser)",
+    "Threshold": "Rs.  50,00,000/-",
+    "Applicable rate": "1%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "1%"
+  },
+  {
+    "Nature of Payment ": "Payment of rent by certain individuals or Hindu undivided family",
+    "Old Act (1961)": "Under Section 194-IB",
+    "New Act (2025)": "Under Section 393",
+    "Specified Person for this purpose": "Individuals/HUF (who are not liable for tax audit under Section 44AB)",
+    "Threshold": "Exceeding Rs.  50,000/- per month or part of a month",
+    "Applicable rate": "5%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "5%"
+  },
+  {
+    "Nature of Payment ": "Other sums payable to a Non-Resident (excluding salary)",
+    "Old Act (1961)": "Under Section 195",
+    "New Act (2025)": "Under Section 393",
+    "Specified Person for this purpose": "Any person responsible for paying to a Non-Resident / Foreign Company",
+    "Threshold": "-",
+    "Applicable rate": "Rates in force / As per DTAA",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "Rates in force (as per Sch-I, Part II: Rates of TDS) / As per DTAA"
+  },
+  {
+    "Nature of Payment ": "Payments to Non-Resident Sportsmen or Sports Associations",
+    "Old Act (1961)": "Under Section 194E",
+    "New Act (2025)": "Under Section 393",
+    "Specified Person for this purpose": "Any person responsible for paying to the Non-Resident",
+    "Threshold": "-",
+    "Applicable rate": "20%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "20%"
+  },
+  {
+    "Nature of Payment ": "Income by way of interest from an Indian company or Business Trust to Non-Residents",
+    "Old Act (1961)": "Under Section 194LC",
+    "New Act (2025)": "Under Section 393",
+    "Specified Person for this purpose": "Indian Company or Business Trust",
+    "Threshold": "-",
+    "Applicable rate": "4%, 5% or 9% (depending on the nature of borrowing)",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "As per respective bond/borrowing notification"
+  },
+  {
+    "Nature of Payment ": "Receipt of consideration for sale of goods exceeding Rs.  50,00,000/-",
+    "Old Act (1961)": "Under Section 206C(1H)",
+    "New Act (2025)": "Under Section 394",
+    "Specified Person for this purpose": "Seller (whose total sales, gross receipts or turnover exceeds Rs.  10 Crore in preceding FY)",
+    "Threshold": "Exceeding Rs.  50,00,000/-",
+    "Applicable rate": "0.10%",
+    "Applicable rate \n(if further amended by \nFinance Act, 2026)": "0.10%"
+  }
+]
