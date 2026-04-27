@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Invincibles Co Tax</title>
+
+  <style>
+    :root {
+      --bg-1: #f8fbff;
+      --bg-2: #eef5ff;
+      --bg-3: #f9fcff;
+      --surface: rgba(255, 255, 255, 0.8);
+      --text: #24324a;
+      --text-soft: #60708d;
+      --line: rgba(186, 205, 232, 0.45);
+      --primary: #5b8def;
+      --primary-2: #7fb3ff;
+      --teal: #57c6c2;
+      --shadow-lg: 0 24px 60px rgba(115, 149, 199, 0.18);
+      --shadow-sm: 0 8px 20px rgba(122, 152, 199, 0.1);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 0% 0%, rgba(168, 202, 255, 0.26), transparent 28%),
+        radial-gradient(circle at 100% 10%, rgba(126, 215, 193, 0.22), transparent 24%),
+        radial-gradient(circle at 70% 100%, rgba(246, 183, 200, 0.18), transparent 24%),
+        linear-gradient(180deg, var(--bg-1) 0%, var(--bg-2) 52%, var(--bg-3) 100%);
+      overflow-x: hidden;
+    }
+
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 16px 26px;
+      background: rgba(255, 255, 255, 0.68);
+      backdrop-filter: blur(18px);
+      border-bottom: 1px solid rgba(201, 216, 238, 0.45);
+      box-shadow: 0 8px 24px rgba(141, 169, 207, 0.08);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-mark {
+      width: 46px;
+      height: 46px;
+      border-radius: 16px;
+      background:
+        linear-gradient(135deg, rgba(255,255,255,0.95), rgba(255,255,255,0.65)),
+        linear-gradient(135deg, var(--primary), var(--teal));
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.7), var(--shadow-sm);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .brand-mark::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+      color: #3b67b7;
+      font-size: 15px;
+    }
+
+    .brand-text {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .logo {
+      font-size: 26px;
+      line-height: 1;
+      font-weight: 800;
+      letter-spacing: 0.5px;
+      background: linear-gradient(90deg, #4d7fe5, #61b7d5, #4d7fe5);
+      background-size: 200% auto;
+      color: transparent;
+      background-clip: text;
+      -webkit-background-clip: text;
+      animation: shimmer 5s linear infinite;
+    }
+
+    .logo-sub {
+      color: var(--text-soft);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.4px;
+      text-transform: uppercase;
+    }
+
+    .nav-right {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .nav-pill {
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(197, 214, 238, 0.5);
+      color: var(--text-soft);
+      font-size: 13px;
+      font-weight: 700;
+      box-shadow: var(--shadow-sm);
+      display: none;
+    }
+
+    .nav-btn {
+      display: none;
+      height: 42px;
+      padding: 0 16px;
+      border: none;
+      border-radius: 14px;
+      cursor: pointer;
+      font-weight: 700;
+      color: #fff;
+      background: linear-gradient(135deg,#5b8def,#78adff);
+      box-shadow: var(--shadow-sm);
+      transition: transform 0.2s ease, filter 0.2s ease;
+    }
+
+    .nav-btn:hover,
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.03);
+    }
+
+    @keyframes shimmer {
+      0% { background-position: 0% center; }
+      100% { background-position: 200% center; }
+    }
+
+    .container {
+      max-width: 1380px;
+      margin: 0 auto;
+      padding: 28px 22px 40px;
+    }
+
+    .panel {
+      position: relative;
+      background: var(--surface);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--line);
+      border-radius: 28px;
+      box-shadow: var(--shadow-lg);
+      padding: 26px;
+      overflow: hidden;
+    }
+
+    .panel::before {
+      content: "";
+      position: absolute;
+      inset: 0 auto auto 0;
+      width: 100%;
+      height: 6px;
+      background: linear-gradient(90deg, rgba(91,141,239,0.85), rgba(87,198,194,0.75), rgba(246,183,200,0.7));
+    }
+
+    .hero-login {
+      max-width: 520px;
+      margin: 50px auto 0;
+      padding-top: 34px;
+    }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+
+    .section-head-left {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 30px;
+      font-weight: 800;
+    }
+
+    .subtle {
+      color: var(--text-soft);
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .chip {
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: linear-gradient(135deg, rgba(255,255,255,0.88), rgba(246,250,255,0.75));
+      border: 1px solid rgba(197, 214, 238, 0.55);
+      color: #5f7396;
+      font-size: 12px;
+      font-weight: 700;
+      box-shadow: var(--shadow-sm);
+      white-space: nowrap;
+    }
+
+    input, button {
+      font: inherit;
+    }
+
+    input {
+      width: 100%;
+      height: 48px;
+      border: 1px solid rgba(190, 208, 233, 0.62);
+      background: linear-gradient(180deg, rgba(255,255,255,0.94), rgba(248,251,255,0.92));
+      border-radius: 16px;
+      padding: 0 14px;
+      color: var(--text);
+      outline: none;
+      transition: 0.22s ease;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.78);
+    }
+
+    input:focus {
+      border-color: rgba(91,141,239,0.78);
+      box-shadow:
+        0 0 0 4px rgba(126, 177, 255, 0.14),
+        0 10px 24px rgba(141, 175, 224, 0.12);
+    }
+
+    .btn-primary {
+      height: 46px;
+      padding: 0 18px;
+      border: none;
+      border-radius: 15px;
+      cursor: pointer;
+      font-weight: 700;
+      color: #fff;
+      background: linear-gradient(135deg, #5b8def, #78adff);
+      box-shadow: var(--shadow-sm);
+      transition: transform 0.2s ease, filter 0.2s ease;
+    }
+
+    .status-message {
+      margin-top: 14px;
+      min-height: 20px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .status-message.error { color: #c45d73; }
+    .status-message.success { color: #2f8d6a; }
+
+    .info-box {
+      margin-top: 18px;
+      padding: 14px 16px;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.7);
+      border: 1px solid rgba(197, 214, 238, 0.55);
+      color: var(--text-soft);
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 700px) {
+      .container { padding: 16px 14px 28px; }
+      .navbar { padding: 14px; }
+      .panel { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="navbar">
+    <div class="brand">
+      <div class="brand-mark"></div>
+      <div class="brand-text">
+        <span class="logo">Computax Redirect Window</span>
+        <span class="logo-sub">Tax and Other ERP</span>
+      </div>
+    </div>
+
+    <div class="nav-right">
+      <div id="navUser" class="nav-pill"></div>
+      <button id="logoutBtn" class="nav-btn">Logout</button>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="panel hero-login">
+      <div class="section-head">
+        <div class="section-head-left">
+          <h1>Welcome Back</h1>
+          <div class="subtle">Login successfully and the Computax portal will open in a new tab. Use logout here to close it as well.</div>
+        </div>
+        <div class="chip">Secure Login</div>
+      </div>
+
+      <input id="loginEmail" type="email" placeholder="Email" />
+      <br /><br />
+      <input id="loginPass" type="password" placeholder="Password" />
+      <br /><br />
+      <button id="loginBtn" class="btn-primary">Login</button>
+      <div id="loginStatus" class="status-message"></div>
+
+      <div class="info-box">
+        Keep this page open after login. The logout button here will sign you out and close the Computax tab opened by this page.
+      </div>
+    </div>
+  </div>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+    import {
+      getAuth,
+      signInWithEmailAndPassword,
+      onAuthStateChanged,
+      signOut
+    } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCsxAw40sFLw00PtEas3cvzRMEjkDZ9NJE",
+      authDomain: "client-tracker-tool-5bdf6.firebaseapp.com",
+      projectId: "client-tracker-tool-5bdf6"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+
+    const loginBtn = document.getElementById("loginBtn");
+    const loginEmail = document.getElementById("loginEmail");
+    const loginPass = document.getElementById("loginPass");
+    const loginStatus = document.getElementById("loginStatus");
+    const logoutBtn = document.getElementById("logoutBtn");
+    const navUser = document.getElementById("navUser");
+
+    const PORTAL_URL = "https://invinciblescotax.compu.tax/";
+    const PORTAL_WINDOW_NAME = "computaxPortalWindow";
+
+    let portalWindow = null;
+
+    function setStatus(message = "", type = "") {
+      loginStatus.textContent = message;
+      loginStatus.className = "status-message" + (type ? ` ${type}` : "");
+    }
+
+    function setLoading(isLoading) {
+      loginBtn.disabled = isLoading;
+      loginBtn.textContent = isLoading ? "Signing In..." : "Login";
+    }
+
+    function openPortalWindow() {
+      portalWindow = window.open(PORTAL_URL, PORTAL_WINDOW_NAME);
+      if (!portalWindow) {
+        setStatus("Popup was blocked. Please allow popups for this site.", "error");
+        return false;
+      }
+      return true;
+    }
+
+    function showLoggedInState(email) {
+      navUser.textContent = email;
+      navUser.style.display = "block";
+      logoutBtn.style.display = "inline-block";
+    }
+
+    function showLoggedOutState() {
+      navUser.style.display = "none";
+      logoutBtn.style.display = "none";
+    }
+
+    async function doLogin() {
+      const email = loginEmail.value.trim().toLowerCase();
+      const password = loginPass.value;
+
+      if (!email || !password) {
+        setStatus("Please enter both email and password.", "error");
+        return;
+      }
+
+      try {
+        setLoading(true);
+        setStatus("Logging in...", "success");
+
+        const popupOpened = openPortalWindow();
+        if (!popupOpened) {
+          setLoading(false);
+          return;
+        }
+
+        await signInWithEmailAndPassword(auth, email, password);
+      } catch (error) {
+        if (portalWindow && !portalWindow.closed) {
+          portalWindow.close();
+        }
+        portalWindow = null;
+        setStatus(error.message || "Login failed.", "error");
+        setLoading(false);
+      }
+    }
+
+    async function doLogout() {
+      try {
+        await signOut(auth);
+
+        if (portalWindow && !portalWindow.closed) {
+          portalWindow.close();
+        } else {
+          const reopenRef = window.open("", PORTAL_WINDOW_NAME);
+          if (reopenRef && !reopenRef.closed) {
+            reopenRef.close();
+          }
+        }
+
+        portalWindow = null;
+        showLoggedOutState();
+        setStatus("Logged out successfully.", "success");
+        setLoading(false);
+      } catch (error) {
+        setStatus(error.message || "Logout failed.", "error");
+      }
+    }
+
+    loginBtn.addEventListener("click", doLogin);
+    logoutBtn.addEventListener("click", doLogout);
+
+    [loginEmail, loginPass].forEach((el) => {
+      el.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") doLogin();
+      });
+    });
+
+    onAuthStateChanged(auth, (user) => {
+      if (!user) {
+        showLoggedOutState();
+        return;
+      }
+
+      showLoggedInState(user.email);
+      setStatus("Login successful. Computax opened in a new tab.", "success");
+      setLoading(false);
+    });
+  </script>
+</body>
+</html>
